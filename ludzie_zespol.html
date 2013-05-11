@@ -16,7 +16,8 @@ subseq: 3
             <div id="left-side">
                 <div id="photo"></div>
                 <div id="text">
-                    TODO: Treść
+                    {% capture zespol %}{% include zespol.md %}{% endcapture %}
+                    {{ zespol | markdownify }}                    
                 </div>
             </div>
             <div id="right-side">

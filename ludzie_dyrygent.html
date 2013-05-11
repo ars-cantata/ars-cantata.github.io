@@ -29,7 +29,10 @@ subseq: 1
                 </ul>
             </div>
             <div id="right-side">
-                TODO: treść
+                <div id="text">
+                    {% capture dyrygent %}{% include dyrygent.md %}{% endcapture %}
+                    {{ dyrygent | markdownify }}
+                </div>
             </div>
         </div>
         <div id="footer">
