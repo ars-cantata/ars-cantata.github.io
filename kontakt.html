@@ -13,7 +13,8 @@ accesskey: 7
         <div id="content" class="NCCN">
             <div id="center-side" class="contact">
                 <div class="inner">
-                    TODO: treść
+                    {% capture kontakt %}{% include kontakt.md %}{% endcapture %}
+                    {{ kontakt | markdownify }}
                 </div>
             </div>
         </div>
