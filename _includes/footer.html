@@ -1,0 +1,59 @@
+{% if page.subgroup == "ludzie" %}
+    <ul class="submenu">
+      {% assign pages_list = site.pages %}
+      {% assign subgroup = 'ludzie' %}
+      {% include subgroup_list.html %}        
+    </ul>
+{% endif %}
+<h1>
+    <a href="{{page.url}}" title="ars cantata">ars cantata</a>
+</h1>
+<div id="partners">
+    {% if page.id == 'strona-glowna' %}
+        <ul>
+            <li>
+                <a href="/en" title="Wersja angielska">
+                    <img src="/img/lang-en.png" alt="Wersja angielska" />
+                </a>
+            </li>
+        </ul>
+    {% else %}
+        <p>wsparcie:</p>
+        <ul>
+            <li>
+                <a href="http://kik.waw.pl/" title="Klub Inteligencji Katolickiej">
+                    <img src="/img/partners/kik.png" alt="Klub Inteligencji Katolickiej" />
+                </a>
+            </li>
+            <li>
+                <a href="http://mk.gov.pl/po/zagranica.php" title="Ministerstwo Kultury i Dzedzictwa Nardowego">
+                    <img src="/img/partners/mk.png" alt="Ministerstwo Kultury i Dzedzictwa Nardowego" />
+                </a>
+            </li>
+            <li>
+                <a href="http://collegium.edu.pl/root_pl" title="Collegium Civitas">
+                    <img src="/img/partners/cc.png" alt="Collegium Civitas" />
+                </a>
+            </li>
+        </ul>
+    {% endif %}
+</div>
+
+<div id ="face">
+    {% if page.id != 'strona-glowna' %}
+        <div id="fb-root"></div>
+            <script>(function(d){
+      var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
+      js = d.createElement('script'); js.id = id; js.async = true;
+      js.src = "//connect.facebook.net/en_US/all.js#appId=131376503627368&xfbml=1";
+      d.getElementsByTagName('head')[0].appendChild(js);
+        }(document));</script>
+        <div class="fb-like" data-href="http://facebook.com/ArsCantata" data-send="true" 
+                data-width="450" data-show-faces="false" data-colorscheme="dark" data-font="verdana">
+        </div>
+    {% endif %}
+</div>
+<div id="signatures">
+    <p>project and realisation: Ars Cantata&reg;</p>
+</div>
+                
