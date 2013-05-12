@@ -1,8 +1,8 @@
-{% include header.html %}
+{% include base/header.htmlinc %}
 <body>
     <div id="container">
         <div id="menu">
-            {%  include menu.html %}
+            {%  include navigation/menu.htmlinc %}
         </div>
         <div id="content" class="LBRS">
             <div id="left-side">
@@ -10,18 +10,18 @@
                 <div id="text">
                 	{% case page.osiagniecia_page %}
 						{% when 1 %}
-						     {% capture osiagniecia_text %}{% include osiagniecia1.md %}{% endcapture %}
+						     {% capture osiagniecia_text %}{% include texts/osiagniecia1.md %}{% endcapture %}
 						{% when 2 %}
-						     {% capture osiagniecia_text %}{% include osiagniecia2.md %}{% endcapture %}
+						     {% capture osiagniecia_text %}{% include texts/osiagniecia2.md %}{% endcapture %}
 						{% else %}
-						     {% capture osiagniecia_text %}{% include osiagniecia3.md %}{% endcapture %}
+						     {% capture osiagniecia_text %}{% include texts/osiagniecia3.md %}{% endcapture %}
 					{% endcase %}
                 	
                 	{{ osiagniecia_text | markdownify }}
                     <ul class="pagination">
 						{% assign pages_list = site.pages %}
 						{% assign subgroup = "osiagniecia" %}
-						{% include osiagniecia_list.html %}
+						{% include navigation/osiagniecia_list.htmlinc %}
                     </ul>
                 </div>
             </div>
@@ -67,7 +67,7 @@
             </div>
         </div>
         <div id="footer">
-            {% include footer.html %}
+            {% include base/footer.htmlinc %}
         </div>
     </div>
 </body>

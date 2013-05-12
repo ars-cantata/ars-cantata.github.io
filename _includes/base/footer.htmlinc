@@ -2,7 +2,7 @@
     <ul class="submenu">
       {% assign pages_list = site.pages %}
       {% assign subgroup = 'ludzie' %}
-      {% include subgroup_list.html %}        
+      {% include navigation/ludzie_list.htmlinc %}        
     </ul>
 {% endif %}
 <h1>
@@ -56,4 +56,3 @@
 <div id="signatures">
     <p>project and realisation: Ars Cantata&reg;</p>
 </div>
-                

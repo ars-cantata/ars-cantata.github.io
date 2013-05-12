@@ -1,0 +1,61 @@
+{% include base/header.htmlinc %}
+<body>
+    <div id="container">
+        <div id="menu">
+                {%  include navigation/menu.htmlinc %}
+        </div>
+        <div id="content" class="LLRS">
+            <div id="left-side">
+                <div id="photo"></div>
+                <div id="text">
+                    {% capture zespol %}{% include texts/zespol.md %}{% endcapture %}
+                    {{ zespol | markdownify }}                    
+                </div>
+            </div>
+            <div id="right-side">
+                <ul class="pictures gallery">
+                    <li>
+                        <img src="/img/peoples/team/01.jpg" alt="" />
+                    </li>
+                    <li>
+                        <img src="/img/peoples/team/02.jpg" alt="" />
+                    </li>
+                    <li>
+                        <img src="/img/peoples/team/03.jpg" alt="" />
+                    </li>
+                    <li>
+                        <img src="/img/peoples/team/04.jpg" alt="" />
+                    </li>
+                    <li>
+                        <img src="/img/peoples/team/05.jpg" alt="" />
+                    </li>
+                    <li>
+                        <span>...</span>
+                    </li>
+                    <li>
+                        <span>...</span>
+                    </li>
+                    <li>
+                        <img src="/img/peoples/team/06.jpg" alt="" />
+                    </li>
+                    <li>
+                        <img src="/img/peoples/team/07.jpg" alt="" />
+                    </li>
+                    <li>
+                        <img src="/img/peoples/team/08.jpg" alt="" />
+                    </li>
+                    <li>
+                        <span>...</span>
+                    </li>
+                    <li>
+                        <img src="/img/peoples/team/09.jpg" alt="" />
+                    </li>
+                </ul>    
+            </div>
+        </div>
+        <div id="footer">
+            {% include base/footer.htmlinc %}
+        </div>
+    </div>
+</body>
+</html>
