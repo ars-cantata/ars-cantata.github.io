@@ -1,0 +1,19 @@
+{% for current_page in (1..10) %}
+	{% for node in pages_list %}
+	    {% if node.osiagniecia_page == current_page %}
+		    {% if subgroup == null or subgroup == node.subgroup %}
+		        {% if page.osiagniecia_page == node.osiagniecia_page %}
+		            <li>
+		      	        <span>{{current_page}}</span>
+		            </li>
+		         {% else %}
+		            <li>
+		      	        <a href="{{node.url}}">{{current_page}}</a>
+		            </li>
+		        {% endif %}
+		    {% endif %}
+	    {% endif %}
+	{% endfor %}
+{% endfor %}
+{% assign pages_list = nil %}
+{% assign subgroup = nil %}

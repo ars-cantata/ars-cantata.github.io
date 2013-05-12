@@ -1,6 +1,5 @@
 Chór kameralny "Ars Cantata" jest zespołem działającym od 1986 roku jako sekcja Klubu Inteligencji Katolickiej w Warszawie. W repertuarze chóru znajdują się sakralne i świeckie utwory kameralne a capella, polskie i obce, z różnych epok - od średniowiecza do współczesności (Arcadelt, Gorczycki, Strawiński, Poulenc, Ravel, Sawa, Koszewski). Zespół wykonuje również pieśni prawosławne oraz oparte na tradycji ludowej, a także aranżacje utworów popularnych na chór.
 
-
 Zespół występuje w kościołach i salach koncertowych (Teatr Wielki, Akademia Muzyczna), bierze udział w imprezach okolicznościowych i koncertach charytatywnych (Voices for Hospices i in.), angażuje się również w projekty teatralne. 
 
 

@@ -17,9 +17,7 @@ accesskey: 1
                 <div id="photo"></div>
                 <div id="text">
                     {% capture o_chorze %}{% include o-chorze.md %}{% endcapture %} 
-                    <span style="font-size: 12px; font-family: arial, verdana, sans-serif; line-height: 15px;">
-                        {{ o_chorze | markdownify }}
-                    </span>
+                    {{ o_chorze | markdownify }}
                 </div>
             </div>
             <div id="right-side">

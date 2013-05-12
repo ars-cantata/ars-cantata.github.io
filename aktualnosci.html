@@ -12,9 +12,10 @@ accesskey: 2
         </div>   
         <div id="content" class="LBRS">    
             <div id="left-side">
-                TODO: Treść
-                <ul class="pagination">
-                </ul>
+                <div id="text">
+                    {% capture aktualnosci_text %}{% include aktualnosci.md %}{% endcapture %}
+                    {{ aktualnosci_text | markdownify }}
+                </div>
             </div>
             <div id="right-side">
                 <ul class="pictures">
