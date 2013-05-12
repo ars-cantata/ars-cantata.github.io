@@ -1,6 +1,6 @@
 {% for subseq in (1..10) %}
 	{% for node in pages_list %}
-	    {% if node.subseq == subseq %}
+	    {% if node.subseq == subseq and page.language == node.language %}
 		    {% if subgroup == null or subgroup == node.subgroup %}
 		        {% if page.url == node.url %}
 		            <li class="{{node.subid}}">

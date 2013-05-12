@@ -1,6 +1,6 @@
 {% for current_page in (1..10) %}
 	{% for node in pages_list %}
-	    {% if node.osiagniecia_page == current_page %}
+	    {% if node.osiagniecia_page == current_page and page.language == node.language %}
 		    {% if subgroup == null or subgroup == node.subgroup %}
 		        {% if page.osiagniecia_page == node.osiagniecia_page %}
 		            <li>

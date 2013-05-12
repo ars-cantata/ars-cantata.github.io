@@ -2,7 +2,7 @@
     <ul class="submenu">
       {% assign pages_list = site.pages %}
       {% assign subgroup = 'ludzie' %}
-      {% include navigation/ludzie_list.htmlinc %}        
+      {% include navigation/ludzie_list.htmlinc %}
     </ul>
 {% endif %}
 <h1>

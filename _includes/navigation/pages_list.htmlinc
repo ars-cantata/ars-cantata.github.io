@@ -1,6 +1,6 @@
 {% for accesskey in (1..10) %}
 	{% for node in pages_list %}
-	    {% if node.accesskey == accesskey %}
+	    {% if node.accesskey == accesskey and page.language == node.language %}
 		    {% if group == null or group == node.group %}
 		        {% if page.id == node.id %}
 		            <li class="{{node.id}}">
