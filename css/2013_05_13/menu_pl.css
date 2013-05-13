@@ -1,20 +1,3 @@
-#container #menu {
-	width: 970px;
-	height: 92px;
-	overflow: hidden;
-}
-#container #menu ul {
-	width: 100%;
-	height: 100%;
-}
-#container #menu ul li {
-	float: left;
-}
-#container #menu ul li a {
-	display: block;
-	height: 92px;
-	text-indent: -666em;
-}
 #container #menu ul li.o-chorze_pl a {
 	width: 128px;
 	background: url(/img/pl/menu_o-chorze.png) 0 0 no-repeat;
@@ -77,21 +60,6 @@
 }
 /*-	Container > Footer > Submenu 
 ----------------------------------------------------------------------------------------------- */
-#container #footer ul.submenu {
-	width: 290px;
-	height: 40px;
-	margin: 0 auto 0 auto;
-}
-#container #footer ul.submenu li {
-	float: left;
-	zoom: 1;
-}
-#container #footer ul.submenu li a {
-	display: block;
-	height: 40px;
-	width: 100px;
-	text-indent: -666em;
-}
 #container #footer ul.submenu li.dyrygent_pl a {
 	width: 109px;
 	background: url(/img/pl/submenu_dyrygent.png) 0 0 no-repeat;
