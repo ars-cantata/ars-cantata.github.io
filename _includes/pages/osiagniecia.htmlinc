@@ -8,16 +8,26 @@
             <div id="left-side">
                 <div id="photo"></div>
                 <div id="text">
+                    {% if page.language == 'pl' %}
                 	{% case page.osiagniecia_page %}
 						{% when 1 %}
-						     {% capture osiagniecia_text %}{% include texts/osiagniecia1.md %}{% endcapture %}
+						     {% capture osiagniecia_text %}{% include texts/pl/osiagniecia1.md %}{% endcapture %}
 						{% when 2 %}
-						     {% capture osiagniecia_text %}{% include texts/osiagniecia2.md %}{% endcapture %}
+						     {% capture osiagniecia_text %}{% include texts/pl/osiagniecia2.md %}{% endcapture %}
 						{% else %}
-						     {% capture osiagniecia_text %}{% include texts/osiagniecia3.md %}{% endcapture %}
-					{% endcase %}
-                	
-                	{{ osiagniecia_text | markdownify }}
+						     {% capture osiagniecia_text %}{% include texts/pl/osiagniecia3.md %}{% endcapture %}
+           	        {% endcase %}
+                    {% else %}
+                	{% case page.osiagniecia_page %}
+						{% when 1 %}
+						     {% capture osiagniecia_text %}{% include texts/en/osiagniecia1.md %}{% endcapture %}
+						{% when 2 %}
+						     {% capture osiagniecia_text %}{% include texts/en/osiagniecia2.md %}{% endcapture %}
+						{% else %}
+						     {% capture osiagniecia_text %}{% include texts/en/osiagniecia3.md %}{% endcapture %}
+           	        {% endcase %}
+                    {% endif %}
+               	    {{ osiagniecia_text | markdownify }}
                     <ul class="pagination">
 						{% assign pages_list = site.pages %}
 						{% assign subgroup = "osiagniecia" %}

@@ -1,0 +1,118 @@
+#container #menu {
+	width: 970px;
+	height: 92px;
+	overflow: hidden;
+}
+#container #menu ul {
+	width: 100%;
+	height: 100%;
+}
+#container #menu ul li {
+	float: left;
+}
+#container #menu ul li a {
+	display: block;
+	height: 92px;
+	text-indent: -666em;
+}
+#container #menu ul li.o-chorze_en a {
+	width: 123px;
+	background: url(/img/en/menu_o-chorze.png) 0 0 no-repeat;
+}
+/* #container #menu ul li.o-chorze_en a:hover, */
+#container #menu ul li.o-chorze_en a.active {
+	background: url(/img/en/menu_o-chorze-hover.png) 0 0 no-repeat;
+}
+#container #menu ul li.aktualnosci_en a {
+	width: 73px;
+	background: url(/img/en/menu_aktualnosci.png) 0 0 no-repeat;
+}
+/* #container #menu ul li.aktualnosci_en a:hover, */
+#container #menu ul li.aktualnosci_en a.active {
+	background: url(/img/en/menu_aktualnosci-hover.png) 0 0 no-repeat;
+}
+#container #menu ul li.osiagniecia_en a {
+	width: 96px;
+	background: url(/img/en/menu_osiagniecia.png) 0 0 no-repeat;
+}
+/* #container #menu ul li.osiagniecia_en a:hover, */
+#container #menu ul li.osiagniecia_en a.active {
+	background: url(/img/en/menu_osiagniecia-hover.png) 0 0 no-repeat;
+}
+#container #menu ul li.ludzie_en a {
+	width: 351px;
+	background: url(/img/en/menu_ludzie.png) 0 0 no-repeat;
+}
+#container #menu ul li.dyrygent_en a {
+	background:transparent url(/img/en/submenu_dyrygent.png) no-repeat scroll 18px 23px;
+	width:131px;
+}
+/* #container #menu ul li.ludzie_en a:hover, */
+#container #menu ul li.ludzie_en a.active {
+	background: url(/img/en/menu_ludzie-hover.png) 0 0 no-repeat;
+}
+#container #menu ul li.posluchaj-nas_en a {
+	width: 87px;
+	background: url(/img/en/menu_posluchaj-nas.png) 0 0 no-repeat;
+}
+/* #container #menu ul li.posluchaj-nas_en a:hover, */
+#container #menu ul li.posluchaj-nas_en a.active {
+	background: url(/img/en/menu_posluchaj-nas-hover.png) 0 0 no-repeat;
+}
+#container #menu ul li.do-pobrania_en a {
+	width: 134px;
+	background: url(/img/en/menu_do-pobrania.png) 0 0 no-repeat;
+}
+/* #container #menu ul li.do-pobrania_en a:hover, */
+#container #menu ul li.do-pobrania_en a.active {
+	background: url(/img/en/menu_do-pobrania-hover.png) 0 0 no-repeat;
+}
+#container #menu ul li.kontakt_en a {
+	width: 95px;
+	background: url(/img/en/menu_kontakt.png) 0 0 no-repeat;
+}
+/* #container #menu ul li.kontakt_en a:hover, */
+#container #menu ul li.kontakt_en a.active {
+	background: url(/img/en/menu_kontakt-hover.png) 0 0 no-repeat;
+}
+/*-	Container > Footer > Submenu 
+----------------------------------------------------------------------------------------------- */
+#container #footer ul.submenu {
+	width: 308px;
+	height: 40px;
+	margin: 0 auto 0 auto;
+}
+#container #footer ul.submenu li {
+	float: left;
+	zoom: 1;
+}
+#container #footer ul.submenu li a {
+	display: block;
+	height: 40px;
+	width: 100px;
+	text-indent: -666em;
+}
+#container #footer ul.submenu li.dyrygent_en a {
+	width: 127px;
+	background: url(/img/en/submenu_dyrygent.png) 0 0 no-repeat;
+}
+/* #container #footer ul.submenu li.dyrygent_en a:hover, */
+#container #footer ul.submenu li.dyrygent_en a.active {
+	background: url(/img/en/submenu_dyrygent-hover.png) 0 0 no-repeat;
+}
+#container #footer ul.submenu li.zarzad_en a {
+	width: 104px;
+	background: url(/img/en/submenu_zarzad.png) 0 0 no-repeat;
+}
+/* #container #footer ul.submenu li.zarzad_en a:hover,  */
+#container #footer ul.submenu li.zarzad_en a.active {
+	background: url(/img/en/submenu_zarzad-hover.png) 0 0 no-repeat;
+}
+#container #footer ul.submenu li.zespol_en a {
+	width: 77px;
+	background: url(/img/en/submenu_zespol.png) 0 0 no-repeat;
+}
+/* #container #footer ul.submenu li.zespol_en a:hover,  */
+#container #footer ul.submenu li.zespol_en a.active {
+	background: url(/img/en/submenu_zespol-hover.png) 0 0 no-repeat;
+}

@@ -7,7 +7,11 @@
         <div id="content" class="NCCN">
             <div id="center-side" class="contact">
                 <div class="inner">
-                    {% capture kontakt %}{% include texts/kontakt.md %}{% endcapture %}
+                    {% if page.language == 'pl' %}
+                      {% capture kontakt %}{% include texts/pl/kontakt.md %}{% endcapture %}
+                    {% else %}
+                      {% capture kontakt %}{% include texts/en/kontakt.md %}{% endcapture %}
+                    {% endif %}
                     {{ kontakt | markdownify }}
                 </div>
             </div>

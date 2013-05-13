@@ -3,12 +3,12 @@
 	    {% if node.accesskey == accesskey and page.language == node.language %}
 		    {% if group == null or group == node.group %}
 		        {% if page.id == node.id %}
-		            <li class="{{node.id}}">
+		            <li class="{{node.id}}_{{node.language}}">
 		      	        <a href="{{node.url}}" class="active" accesskey="{{node.accesskey}}" 
 		      	           title="{{node.title}}">{{node.title}}</a>
 		            </li>
 		         {% else %}
-		            <li class="{{node.id}}">
+		            <li class="{{node.id}}_{{node.language}}">
 		      	        <a href="{{node.url}}" accesskey="{{node.accesskey}}" 
 		      	           title="{{node.title}}">{{node.title}}</a>
 		            </li>

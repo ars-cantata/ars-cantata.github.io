@@ -1,0 +1,118 @@
+#container #menu {
+	width: 970px;
+	height: 92px;
+	overflow: hidden;
+}
+#container #menu ul {
+	width: 100%;
+	height: 100%;
+}
+#container #menu ul li {
+	float: left;
+}
+#container #menu ul li a {
+	display: block;
+	height: 92px;
+	text-indent: -666em;
+}
+#container #menu ul li.o-chorze_pl a {
+	width: 128px;
+	background: url(/img/pl/menu_o-chorze.png) 0 0 no-repeat;
+}
+/* #container #menu ul li.o-chorze_pl a:hover, */
+#container #menu ul li.o-chorze_pl a.active {
+	background: url(/img/pl/menu_o-chorze-hover.png) 0 0 no-repeat;
+}
+#container #menu ul li.aktualnosci_pl a {
+	width: 154px;
+	background: url(/img/pl/menu_aktualnosci.png) 0 0 no-repeat;
+}
+/* #container #menu ul li.aktualnosci_pl a:hover, */
+#container #menu ul li.aktualnosci_pl a.active {
+	background: url(/img/pl/menu_aktualnosci-hover.png) 0 0 no-repeat;
+}
+#container #menu ul li.osiagniecia_pl a {
+	width: 153px;
+	background: url(/img/pl/menu_osiagniecia.png) 0 0 no-repeat;
+}
+/* #container #menu ul li.osiagniecia_pl a:hover, */
+#container #menu ul li.osiagniecia_pl a.active {
+	background: url(/img/pl/menu_osiagniecia-hover.png) 0 0 no-repeat;
+}
+#container #menu ul li.ludzie_pl a {
+	width: 87px;
+	background: url(/img/pl/menu_ludzie.png) 0 0 no-repeat;
+}
+#container #menu ul li.dyrygent_pl a {
+	background:transparent url(/img/pl/submenu_dyrygent.png) no-repeat scroll 18px 23px;
+	width:131px;
+}
+/* #container #menu ul li.ludzie_pl a:hover, */
+#container #menu ul li.ludzie_pl a.active {
+	background: url(/img/pl/menu_ludzie-hover.png) 0 0 no-repeat;
+}
+#container #menu ul li.posluchaj-nas_pl a {
+	width: 179px;
+	background: url(/img/pl/menu_posluchaj-nas.png) 0 0 no-repeat;
+}
+/* #container #menu ul li.posluchaj-nas_pl a:hover, */
+#container #menu ul li.posluchaj-nas_pl a.active {
+	background: url(/img/pl/menu_posluchaj-nas-hover.png) 0 0 no-repeat;
+}
+#container #menu ul li.do-pobrania_pl a {
+	width: 157px;
+	background: url(/img/pl/menu_do-pobrania.png) 0 0 no-repeat;
+}
+/* #container #menu ul li.do-pobrania_pl a:hover, */
+#container #menu ul li.do-pobrania_pl a.active {
+	background: url(/img/pl/menu_do-pobrania-hover.png) 0 0 no-repeat;
+}
+#container #menu ul li.kontakt_pl a {
+	width: 112px;
+	background: url(/img/pl/menu_kontakt.png) 0 0 no-repeat;
+}
+/* #container #menu ul li.kontakt_pl a:hover, */
+#container #menu ul li.kontakt_pl a.active {
+	background: url(/img/pl/menu_kontakt-hover.png) 0 0 no-repeat;
+}
+/*-	Container > Footer > Submenu 
+----------------------------------------------------------------------------------------------- */
+#container #footer ul.submenu {
+	width: 290px;
+	height: 40px;
+	margin: 0 auto 0 auto;
+}
+#container #footer ul.submenu li {
+	float: left;
+	zoom: 1;
+}
+#container #footer ul.submenu li a {
+	display: block;
+	height: 40px;
+	width: 100px;
+	text-indent: -666em;
+}
+#container #footer ul.submenu li.dyrygent_pl a {
+	width: 109px;
+	background: url(/img/pl/submenu_dyrygent.png) 0 0 no-repeat;
+}
+/* #container #footer ul.submenu li.dyrygent_pl a:hover, */
+#container #footer ul.submenu li.dyrygent_pl a.active {
+	background: url(/img/pl/submenu_dyrygent-hover.png) 0 0 no-repeat;
+}
+#container #footer ul.submenu li.zarzad_pl a {
+	width: 104px;
+	background: url(/img/pl/submenu_zarzad.png) 0 0 no-repeat;
+}
+/* #container #footer ul.submenu li.zarzad_pl a:hover,  */
+#container #footer ul.submenu li.zarzad_pl a.active {
+	background: url(/img/pl/submenu_zarzad-hover.png) 0 0 no-repeat;
+}
+#container #footer ul.submenu li.zespol_pl a {
+	width: 77px;
+	background: url(/img/pl/submenu_zespol.png) 0 0 no-repeat;
+}
+/* #container #footer ul.submenu li.zespol_pl a:hover,  */
+#container #footer ul.submenu li.zespol_pl a.active {
+	background: url(/img/pl/submenu_zespol-hover.png) 0 0 no-repeat;
+}

@@ -22,7 +22,11 @@
             </div>
             <div id="right-side">
                 <div id="text">
-                    {% capture dyrygent %}{% include texts/dyrygent.md %}{% endcapture %}
+                    {% if page.language == 'pl' %}
+                      {% capture dyrygent %}{% include texts/pl/dyrygent.md %}{% endcapture %}
+                    {% else %}
+                      {% capture dyrygent %}{% include texts/en/dyrygent.md %}{% endcapture %}
+                    {% endif %}
                     {{ dyrygent | markdownify }}
                 </div>
             </div>

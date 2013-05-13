@@ -8,10 +8,15 @@
             <div id="center-side" class="download">
                 <div class="inner">
                     <ul class="gold-list">
-                        <li><a href="/files/str2.pdf">Folder</a></li>
-                        <li><a href="/files/REGULAMIN.pdf">Regulamin</a></li>
-                        <li><a href="/files/historia_zespolu.pdf">Historia Zespołu</a></li>
-                        <li><a href="/files/polecane_strony.pdf">Polecane strony</a></li>
+                        {% if page.language == 'pl' %}
+                            <li><a href="/files/str2.pdf">Folder</a></li>
+                            <li><a href="/files/REGULAMIN.pdf">Regulamin</a></li>
+                            <li><a href="/files/historia_zespolu.pdf">Historia Zespołu</a></li>
+                        {% else %}
+                            <li><a href="/files/str2.pdf">Folder (pl)</a></li>
+                            <li><a href="/files/REGULAMIN.pdf">Choir's rules (pl)</a></li>
+                            <li><a href="/files/historia_zespolu.pdf">Choir's history (pl)</a></li>
+                        {% endif %}
                     </ul>
                 </div>
             </div>

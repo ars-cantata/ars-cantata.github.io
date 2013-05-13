@@ -12,13 +12,23 @@
     {% if page.id == 'strona-glowna' %}
         <ul>
             <li>
-                <a href="/en" title="Wersja angielska">
-                    <img src="/img/lang-en.png" alt="Wersja angielska" />
-                </a>
+                {% if page.language == 'pl' %}
+                    <a href="/en" title="English version">
+                        <img src="/img/lang-en.png" alt="English version" />
+                    </a>
+                {% else %}
+                    <a href="/" title="Wersja polska">
+                        <img src="/img/lang-pl.png" alt="Wersja polska" />
+                    </a>
+                {% endif  %} 
             </li>
         </ul>
     {% else %}
-        <p>wsparcie:</p>
+       {% if page.language == 'pl' %}
+           <p>wsparcie:</p>
+       {% else %}
+           <p>support:</p>
+       {% endif %}
         <ul>
             <li>
                 <a href="http://kik.waw.pl/" title="Klub Inteligencji Katolickiej">
@@ -54,5 +64,9 @@
     {% endif %}
 </div>
 <div id="signatures">
-    <p>project and realisation: Ars Cantata&reg;</p>
+    {% if page.language == 'pl' %}
+       <p>projekt i realizacja: Ars Cantata&reg;</p>
+    {% else %}
+       <p>project and realisation: Ars Cantata&reg;</p>
+    {% endif %}
 </div>

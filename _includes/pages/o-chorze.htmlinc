@@ -10,7 +10,11 @@
             <div id="left-side">
                 <div id="photo"></div>
                 <div id="text">
-                    {% capture o_chorze %}{% include texts/o-chorze.md %}{% endcapture %} 
+                    {% if page.language == 'pl' %}
+                      {% capture o_chorze %}{% include texts/pl/o-chorze.md %}{% endcapture %} 
+                    {% else %}
+                      {% capture o_chorze %}{% include texts/en/o-chorze.md %}{% endcapture %} 
+                    {% endif %}
                     {{ o_chorze | markdownify }}
                 </div>
             </div>

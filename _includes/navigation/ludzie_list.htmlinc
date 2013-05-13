@@ -3,12 +3,12 @@
 	    {% if node.subseq == subseq and page.language == node.language %}
 		    {% if subgroup == null or subgroup == node.subgroup %}
 		        {% if page.url == node.url %}
-		            <li class="{{node.subid}}">
+		            <li class="{{node.subid}}_{{node.language}}">
 		      	        <a href="{{node.url}}" class="active" 
 		      	           title="{{node.title}}">{{node.title}}</a>
 		            </li>
 		         {% else %}
-		            <li class="{{node.subid}}">
+		            <li class="{{node.subid}}_{{node.language}}">
 		      	        <a href="{{node.url}}" 
 		      	           title="{{node.title}}">{{node.title}}</a>
 		            </li>

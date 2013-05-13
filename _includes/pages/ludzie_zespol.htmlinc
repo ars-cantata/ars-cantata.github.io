@@ -8,7 +8,11 @@
             <div id="left-side">
                 <div id="photo"></div>
                 <div id="text">
-                    {% capture zespol %}{% include texts/zespol.md %}{% endcapture %}
+                    {% if page.language == 'pl' %}
+                      {% capture zespol %}{% include texts/pl/zespol.md %}{% endcapture %}
+                    {% else %}
+                      {% capture zespol %}{% include texts/en/zespol.md %}{% endcapture %}
+                    {% endif %}
                     {{ zespol | markdownify }}                    
                 </div>
             </div>
