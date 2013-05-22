@@ -1,52 +1,52 @@
-        <div id="content" class="LBRS">    
-            <div id="left-side">
-                <div id="text">
-                    {% if page.language == 'pl' %}
-                      {% capture aktualnosci_text %}{% include texts/pl/aktualnosci.md %}{% endcapture %}
-                    {% else %}
-                      {% capture aktualnosci_text %}{% include texts/en/aktualnosci.md %}{% endcapture %}
-                    {% endif %}
-                    {{ aktualnosci_text | markdownify }}
-                </div>
-            </div>
-            <div id="right-side">
-                <ul class="pictures">
-                    <li>
-                        <img src="/img/news/01.png" alt="" />
-                    </li>
-                    <li>
-                        <img src="/img/news/02.png" alt="" />
-                    </li>
-                    <li>
-                        <span>...</span>
-                    </li>
-                    <li>
-                        <span>...</span>
-                    </li>
-                    <li>
-                        <img src="/img/news/03.png" alt="" />
-                    </li>
-                    <li>
-                        <img src="/img/news/04.png" alt="" />
-                    </li>
-                    <li>
-                        <span>...</span>
-                    </li>
-                    <li>
-                        <img src="/img/news/05.png" alt="" />
-                    </li>
-                    <li>
-                        <span>...</span>
-                    </li>
-                    <li>
-                        <img src="/img/news/06.png" alt="" />
-                    </li>
-                    <li>
-                        <span>...</span>
-                    </li>
-                    <li>
-                        <img src="/img/news/07.png" alt="" />
-                    </li>
-                </ul>
-            </div>    
-        </div>    
+<div id="content" class="LBRS">    
+	<div id="left-side">
+		<div id="text">
+			{% if page.language == 'pl' %}
+			  {% capture aktualnosci_text %}{% include texts/pl/aktualnosci.md %}{% endcapture %}
+			{% else %}
+			  {% capture aktualnosci_text %}{% include texts/en/aktualnosci.md %}{% endcapture %}
+			{% endif %}
+			{{ aktualnosci_text | markdownify }}
+		</div>
+	</div>
+	<div id="right-side">
+		<ul class="pictures">
+			<li>
+				<img src="/img/news/01.png" alt="" />
+			</li>
+			<li>
+				<img src="/img/news/02.png" alt="" />
+			</li>
+			<li>
+				<span>...</span>
+			</li>
+			<li>
+				<span>...</span>
+			</li>
+			<li>
+				<img src="/img/news/03.png" alt="" />
+			</li>
+			<li>
+				<img src="/img/news/04.png" alt="" />
+			</li>
+			<li>
+				<span>...</span>
+			</li>
+			<li>
+				<img src="/img/news/05.png" alt="" />
+			</li>
+			<li>
+				<span>...</span>
+			</li>
+			<li>
+				<img src="/img/news/06.png" alt="" />
+			</li>
+			<li>
+				<span>...</span>
+			</li>
+			<li>
+				<img src="/img/news/07.png" alt="" />
+			</li>
+		</ul>
+	</div>    
+</div>    

@@ -27,7 +27,3 @@
 		</ul>
 	</div>
 </div>
-<div id="footer">
-	{% include base/footer.htmlinc %}
-</div>
-
