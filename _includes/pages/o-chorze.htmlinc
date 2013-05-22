@@ -1,39 +1,33 @@
-    <div id="container">   
-        <div id="menu">
-            <div id="menu">
-                {%  include navigation/menu.htmlinc %}
-            </div>                
-        </div>
-        <div id="content" class="LBRS">
-            <div id="left-side">
-                <div id="photo"></div>
-                <div id="text">
-                    {% if page.language == 'pl' %}
-                      {% capture o_chorze %}{% include texts/pl/o-chorze.md %}{% endcapture %} 
-                    {% else %}
-                      {% capture o_chorze %}{% include texts/en/o-chorze.md %}{% endcapture %} 
-                    {% endif %}
-                    {{ o_chorze | markdownify }}
-                </div>
-            </div>
-            <div id="right-side">
-                <ul class="pictures gallery">
-                    <li><img src="/img/about/01.jpg" alt="" /></li>
-                    <li><span>...</span></li>
-                    <li><img src="/img/about/02.jpg" alt="" /></li>
-                    <li><span>...</span></li>
-                    <li><img src="/img/about/03.jpg" alt="" /></li>
-                    <li><img src="/img/about/04.jpg" alt="" /></li>
-                    <li><img src="/img/about/05.jpg" alt="" /></li>
-                    <li><span>...</span></li>
-                    <li><img src="/img/about/06.jpg" alt="" /></li>
-                    <li><span>...</span></li>
-                    <li><img src="/img/about/07.jpg" alt="" /></li>
-                    <li><span>...</span></li>
-                </ul>
-            </div>
-        </div>
-        <div id="footer">
-            {% include base/footer.htmlinc %}
-        </div>
-    </div>
+<div id="content" class="LBRS">
+	<div id="left-side">
+		<div id="photo"></div>
+		<div id="text">
+			{% if page.language == 'pl' %}
+			  {% capture o_chorze %}{% include texts/pl/o-chorze.md %}{% endcapture %} 
+			{% else %}
+			  {% capture o_chorze %}{% include texts/en/o-chorze.md %}{% endcapture %} 
+			{% endif %}
+			{{ o_chorze | markdownify }}
+		</div>
+	</div>
+	<div id="right-side">
+		<ul class="pictures gallery">
+			<li><img src="/img/about/01.jpg" alt="" /></li>
+			<li><span>...</span></li>
+			<li><img src="/img/about/02.jpg" alt="" /></li>
+			<li><span>...</span></li>
+			<li><img src="/img/about/03.jpg" alt="" /></li>
+			<li><img src="/img/about/04.jpg" alt="" /></li>
+			<li><img src="/img/about/05.jpg" alt="" /></li>
+			<li><span>...</span></li>
+			<li><img src="/img/about/06.jpg" alt="" /></li>
+			<li><span>...</span></li>
+			<li><img src="/img/about/07.jpg" alt="" /></li>
+			<li><span>...</span></li>
+		</ul>
+	</div>
+</div>
+<div id="footer">
+	{% include base/footer.htmlinc %}
+</div>
+
