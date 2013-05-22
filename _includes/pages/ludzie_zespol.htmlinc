@@ -1,9 +1,3 @@
-{% include base/header.htmlinc %}
-<body>
-    <div id="container">
-        <div id="menu">
-                {%  include navigation/menu.htmlinc %}
-        </div>
         <div id="content" class="LLRS">
             <div id="left-side">
                 <div id="photo"></div>
@@ -57,9 +51,3 @@
                 </ul>    
             </div>
         </div>
-        <div id="footer">
-            {% include base/footer.htmlinc %}
-        </div>
-    </div>
-</body>
-</html>
