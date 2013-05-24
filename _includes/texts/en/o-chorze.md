@@ -1,12 +1,9 @@
-(EN) Chór kameralny "Ars Cantata" jest zespołem działającym od 1986 roku jako sekcja Klubu Inteligencji Katolickiej w Warszawie. W repertuarze chóru znajdują się sakralne i świeckie utwory kameralne a capella, polskie i obce, z różnych epok - od średniowiecza do współczesności (Arcadelt, Gorczycki, Strawiński, Poulenc, Ravel, Sawa, Koszewski). Zespół wykonuje również pieśni prawosławne oraz oparte na tradycji ludowej, a także aranżacje utworów popularnych na chór.
+The Chamber Choir ”Ars Cantata” has been an amateur choir since 1986. It was one of the Klub Inteligencji Katolickiej section in Warsaw.
 
-Zespół występuje w kościołach i salach koncertowych (Teatr Wielki, Akademia Muzyczna), bierze udział w imprezach okolicznościowych i koncertach charytatywnych (Voices for Hospices i in.), angażuje się również w projekty teatralne. 
+The Choir’s repertoire includes both sacred and secular chamber pieces a cappella, Polish and foreign songs, from various époques – from the Medieval Ages to the present times (Arcadelt, Gorczycki, Strawiński, Poulenc, Ravel, Serocki, Sawa, Koszewski). The Choir performs also Orthodox and folk songs, as well as arrangements of popular songs for four voices.
 
+Ars Cantata is specialising in interpretations of contemporary music, particularly pieces of some Polish composers (for which it was frequently awarded), e.g. Salve Regina and Tryptyk Maryjny by Marian Sawa, Zdrowaś Królewno Wyborna and Miserere by Andrzej Koszewski and others.
 
-Od 2004 roku zespół współpracuje z prestiżową szkołą wyższą - Collegium Civitas. 
+The Choir performs both in churches and concert halls (Teatr Wielki, Akademia Muzyczna); and is very willing to participate in any events and charity concerts (Voices for Hospices and others), as well as theatre projects.
 
-
-Chór kameralny "Ars Cantata" jest laureatem wielu nagród i wyróżnień na renomowanych festiwalach i konkursach chóralnych w Polsce i za granicą.
-
-
-Członkowie chóru często wyjeżdżają razem na wyprawy dalsze i bliższe. Obowiązkowy niemal punkt programu rocznego to tygodniowy obóz wakacyjny oraz jesienny i wiosenny weekend szkoleniowy. Podczas tych wyjazdów nie tylko pracujemy, ale i nie stronimy od zabawy.
+The Chamber Choir Ars Cantata has been awarded many prizes at recognised choir festivals and competitions in Poland and abroad.
