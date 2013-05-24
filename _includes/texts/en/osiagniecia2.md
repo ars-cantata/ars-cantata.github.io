@@ -1,16 +1,21 @@
-### 2006 (EN)
-Udział w XI Międzynarodowym Festiwalu Chóralnym w Prowansji (Festival Choral International en Provence) oraz w dwóch plenerowych wykonaniach Requiem W.A. Mozarta w amfiteatrze w Cannes – widowisko muzyczne” Europa na scenie”- w ramach obchodów 250 rocznicy urodzin kompozytora
-
 ### 2005
-Złoty Dyplom z wyróżnieniem oraz Nagrodę Specjalną za "najlepsze wykonanie kompozycji współczesnej" na Międzynarodowym Festiwalu Muzyki Chóralnej im. Feliksa Nowowiejskiego w Barczewie
+Silver Diploma and II Prize at the International Choir Festival “Mundus Cantat” in Sopot
 
-Złoty Dyplom - I miejsce na Międzynarodowym Festiwalu Pieśni Chóralnej w Międzyzdrojach
+Golden Diploma - I Prize at the International Choir Music Festival in Międzyzdroje
 
-Srebrny Dyplom i II miejsce na Międzynarodowym Festiwalu Chóralnym „Mundus Cantat” w Sopocie
+Golden Diploma with an award and Special Prize for "the Best Contemporary Music Performance"
+at the International Festival of Choir Music named by Feliks Nowowiejski in Barczewo
+
+Golden Diploma with an award and Special Prize for "the Best Contemporary Music Performance"
+at the International Festival of Choir Music named by Feliks Nowowiejski in Barczewo
 
 ### 2004
-III miejsce w kategorii chórów kameralnych podczas XIII Festiwalu Kolęd i Pastorałek w Myślenicach  
-I miejsce w kategorii "inne chóry amatorskie" na XXXV Ogólnopolskim Turnieju Chórów "Legnica Cantat"
+I Prize in the category of "Other Amateur Choirs " At XXXV National Tournament of Choirs "Legnica Cantat"
+
+III Prize in the category of chamber choirs at XIII Festival of Christmas Carols and Pastorals in Myślenice
 
 ### 2003
-I miejsce na I Ogólnopolskim Festiwalu Pieśni Pasyjnej w Bydgoszczy
+Golden Ribbon and Special Prize of the jury for “the Most Significant Artistic Event of
+the Review " at I Mazovian Choir Review in Warsaw
+
+I Prize at I National Festival of Passion Songs in Bydgoszcz

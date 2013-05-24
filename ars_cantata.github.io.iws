@@ -2,31 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="85f5e849-a8c0-4c6a-b66e-94f31ef49b51" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aktualnosci.html" afterPath="$PROJECT_DIR$/aktualnosci.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/en/aktualnosci.html" afterPath="$PROJECT_DIR$/en/aktualnosci.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/do-pobrania.html" afterPath="$PROJECT_DIR$/do-pobrania.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/en/do-pobrania.html" afterPath="$PROJECT_DIR$/en/do-pobrania.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/en/index.html" afterPath="$PROJECT_DIR$/en/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kontakt.html" afterPath="$PROJECT_DIR$/kontakt.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/en/kontakt.html" afterPath="$PROJECT_DIR$/en/kontakt.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/layout_main.html" afterPath="$PROJECT_DIR$/_layouts/layout_main.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ludzie_dyrygent.html" afterPath="$PROJECT_DIR$/ludzie_dyrygent.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/en/ludzie_dyrygent.html" afterPath="$PROJECT_DIR$/en/ludzie_dyrygent.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ludzie_zarzad.html" afterPath="$PROJECT_DIR$/ludzie_zarzad.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/en/ludzie_zarzad.html" afterPath="$PROJECT_DIR$/en/ludzie_zarzad.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ludzie_zespol.html" afterPath="$PROJECT_DIR$/ludzie_zespol.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/en/ludzie_zespol.html" afterPath="$PROJECT_DIR$/en/ludzie_zespol.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/o-chorze.html" afterPath="$PROJECT_DIR$/o-chorze.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/en/o-chorze.html" afterPath="$PROJECT_DIR$/en/o-chorze.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/osiagniecia1.html" afterPath="$PROJECT_DIR$/osiagniecia1.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/en/osiagniecia1.html" afterPath="$PROJECT_DIR$/en/osiagniecia1.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/osiagniecia2.html" afterPath="$PROJECT_DIR$/osiagniecia2.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/en/osiagniecia2.html" afterPath="$PROJECT_DIR$/en/osiagniecia2.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/osiagniecia3.html" afterPath="$PROJECT_DIR$/osiagniecia3.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/en/osiagniecia3.html" afterPath="$PROJECT_DIR$/en/osiagniecia3.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/posluchaj-nas.html" afterPath="$PROJECT_DIR$/posluchaj-nas.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/en/posluchaj-nas.html" afterPath="$PROJECT_DIR$/en/posluchaj-nas.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/texts/en/kontakt.md" afterPath="$PROJECT_DIR$/_includes/texts/en/kontakt.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/texts/en/osiagniecia1.md" afterPath="$PROJECT_DIR$/_includes/texts/en/osiagniecia1.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/texts/en/osiagniecia2.md" afterPath="$PROJECT_DIR$/_includes/texts/en/osiagniecia2.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/texts/en/osiagniecia3.md" afterPath="$PROJECT_DIR$/_includes/texts/en/osiagniecia3.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/texts/en/zespol.md" afterPath="$PROJECT_DIR$/_includes/texts/en/zespol.md" />
     </list>
     <ignored path="ars_cantata.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -36,6 +16,19 @@
     <file path="$PROJECT_DIR$/_includes/navigation/menu_inc.html" changelist="85f5e849-a8c0-4c6a-b66e-94f31ef49b51" time="1369417551270" ignored="false" />
     <file path="$PROJECT_DIR$/_includes/pages/index_inc.html" changelist="85f5e849-a8c0-4c6a-b66e-94f31ef49b51" time="1369417551272" ignored="false" />
     <file path="$PROJECT_DIR$/_includes/pages/osiagniecia_inc.html" changelist="85f5e849-a8c0-4c6a-b66e-94f31ef49b51" time="1369417551273" ignored="false" />
+    <file path="$PROJECT_DIR$/_site/js/scripts.js" changelist="85f5e849-a8c0-4c6a-b66e-94f31ef49b51" time="1369417930964" ignored="false" />
+    <file path="$PROJECT_DIR$/_site/ludzie_dyrygent.html" changelist="85f5e849-a8c0-4c6a-b66e-94f31ef49b51" time="1369417930964" ignored="false" />
+    <file path="$PROJECT_DIR$/_site/osiagniecia1.html" changelist="85f5e849-a8c0-4c6a-b66e-94f31ef49b51" time="1369417930964" ignored="false" />
+    <file path="$PROJECT_DIR$/_site/index.html" changelist="85f5e849-a8c0-4c6a-b66e-94f31ef49b51" time="1369417930964" ignored="false" />
+    <file path="$PROJECT_DIR$/_site/CNAME" changelist="85f5e849-a8c0-4c6a-b66e-94f31ef49b51" time="1369417930964" ignored="false" />
+    <file path="$PROJECT_DIR$/_site/o-chorze.html" changelist="85f5e849-a8c0-4c6a-b66e-94f31ef49b51" time="1369417930964" ignored="false" />
+    <file path="$PROJECT_DIR$/_site/posluchaj-nas.html" changelist="85f5e849-a8c0-4c6a-b66e-94f31ef49b51" time="1369417930964" ignored="false" />
+    <file path="$PROJECT_DIR$/_site/kontakt.html" changelist="85f5e849-a8c0-4c6a-b66e-94f31ef49b51" time="1369417930964" ignored="false" />
+    <file path="$PROJECT_DIR$/_site/ludzie_zarzad.html" changelist="85f5e849-a8c0-4c6a-b66e-94f31ef49b51" time="1369417930964" ignored="false" />
+    <file path="$PROJECT_DIR$/_site/README.md" changelist="85f5e849-a8c0-4c6a-b66e-94f31ef49b51" time="1369417930964" ignored="false" />
+    <file path="$PROJECT_DIR$/_site/osiagniecia3.html" changelist="85f5e849-a8c0-4c6a-b66e-94f31ef49b51" time="1369417930964" ignored="false" />
+    <file path="$PROJECT_DIR$/_site/osiagniecia2.html" changelist="85f5e849-a8c0-4c6a-b66e-94f31ef49b51" time="1369417930964" ignored="false" />
+    <file path="$PROJECT_DIR$/_site/ludzie_zespol.html" changelist="85f5e849-a8c0-4c6a-b66e-94f31ef49b51" time="1369417930964" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +88,98 @@
     <favorites_list name="ars_cantata.github.io" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="aktualnosci.md" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_includes/texts/en/aktualnosci.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="0" selection-start="1207" selection-end="1207" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="o-chorze.md" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_includes/texts/en/o-chorze.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="11" selection-start="11" selection-end="11" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="kontakt.md" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_includes/texts/en/kontakt.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="30" selection-start="297" selection-end="297" vertical-scroll-proportion="0.23734178">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="kontakt.md" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_includes/texts/pl/kontakt.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="30" selection-start="297" selection-end="319" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dyrygent.md" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_includes/texts/en/dyrygent.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="osiagniecia3.md" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_includes/texts/en/osiagniecia3.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="0" selection-start="243" selection-end="243" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="zespol.md" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_includes/texts/en/zespol.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="osiagniecia1.md" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_includes/texts/en/osiagniecia1.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="85" selection-start="425" selection-end="425" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="osiagniecia2.md" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_includes/texts/en/osiagniecia2.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="21" column="0" selection-start="975" selection-end="975" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="kontakt.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kontakt.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -114,6 +198,12 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/_includes/base/footer_inc.html" />
+        <option value="$PROJECT_DIR$/_includes/texts/en/o-chorze.md" />
+        <option value="$PROJECT_DIR$/_includes/texts/en/osiagniecia1.md" />
+        <option value="$PROJECT_DIR$/_includes/texts/en/osiagniecia2.md" />
+        <option value="$PROJECT_DIR$/_includes/texts/en/osiagniecia3.md" />
+        <option value="$PROJECT_DIR$/_includes/texts/en/zespol.md" />
+        <option value="$PROJECT_DIR$/_includes/texts/en/kontakt.md" />
       </list>
     </option>
   </component>
@@ -122,6 +212,40 @@
     <option name="y" value="22" />
     <option name="width" value="1900" />
     <option name="height" value="1139" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Android Lint</id>
+          </State>
+          <State>
+            <id>Performance issues</id>
+          </State>
+          <State>
+            <id>Probable bugs</id>
+          </State>
+          <State>
+            <id>Properties Files</id>
+          </State>
+          <State>
+            <id>XML</id>
+          </State>
+          <State>
+            <id>XPath</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Abstraction issues</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -137,7 +261,7 @@
     <option name="STATE" value="0" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="Scope" currentSubView="Project Files" proportions="" version="1" splitterProportion="0.5">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -170,7 +294,7 @@
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="MemberChooser.sorted" value="false" />
-    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
+    <property name="options.lastSelected" value="editor" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
     <property name="MemberChooser.copyJavadoc" value="false" />
@@ -283,12 +407,12 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="22" width="1900" height="1139" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32973504" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32973504" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -298,7 +422,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24973032" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.35005394" sideWeight="0.67026496" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.35005394" sideWeight="0.67026496" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -384,6 +508,76 @@
     <entry file="file://$PROJECT_DIR$/css/2013_05_13/galleria.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="2" column="25" selection-start="150" selection-end="150" vertical-scroll-proportion="0.045801528">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kontakt.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/texts/en/aktualnosci.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="0" selection-start="1207" selection-end="1207" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/texts/en/o-chorze.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="11" selection-start="11" selection-end="11" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/texts/en/dyrygent.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/texts/en/osiagniecia1.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="85" selection-start="425" selection-end="425" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/texts/en/osiagniecia3.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="0" selection-start="243" selection-end="243" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/texts/en/zespol.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/texts/en/osiagniecia2.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="0" selection-start="975" selection-end="975" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/texts/pl/kontakt.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="30" selection-start="297" selection-end="319" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/texts/en/kontakt.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="30" selection-start="297" selection-end="297" vertical-scroll-proportion="0.23734178">
           <folding />
         </state>
       </provider>

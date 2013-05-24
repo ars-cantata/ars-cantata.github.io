@@ -1,13 +1,13 @@
-Próby Chóru Kameralnego Ars Cantata odbywają się (EN)
+Chamber Choir Ars Cantata – rehearsals
 
-w poniedziałki i czwartki w godz. 18.30-20.30.
+on Mondays and Thursdays at 6:30-8:30 p.m.
 
-w [Collegium Civitas](http://www.collegium.edu.pl/) w Warszawie  
-(Pałac Kultury i Nauki, XII p.  
-wejście od strony ul. Marszałkowskiej)  
+in [Collegium Civitas](http://www.collegium.edu.pl/) in Warsaw  
+(Pałac Kultury i Nauki, 12th floor,  
+entrance from Marszałkowska)
 
-Aby uzyskać więcej informacji prosimy o kontakt:
+To obtain more information please contact us at:
 
 e-mail: <arscantata@poczta.pl>
 
-telefon: +48 695 160 762
+phone: +48 695 160 762
