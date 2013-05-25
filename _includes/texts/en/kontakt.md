@@ -8,6 +8,6 @@ entrance from Marszałkowska)
 
 To obtain more information please contact us at:
 
-e-mail: <arscantata@poczta.pl>
+e-mail: <contact@arscantata.pl>
 
 phone: +48 695 160 762

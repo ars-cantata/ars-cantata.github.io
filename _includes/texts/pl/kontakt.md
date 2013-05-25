@@ -8,6 +8,6 @@ wejście od strony ul. Marszałkowskiej)
 
 Aby uzyskać więcej informacji prosimy o kontakt:
 
-e-mail: <arscantata@poczta.pl>
+e-mail: <kontakt@arscantata.pl>
 
 telefon: +48 695 160 762
