@@ -1,0 +1,29 @@
+<h1>
+    <a href="{{page.url}}" title="ars cantata">ars cantata</a>
+</h1>
+<div id="partners">
+    <ul>
+        <li>
+            {% if page.language == 'pl' %}
+            <a href="/en" title="English version">
+                <img src="/img/lang-en.png" alt="English version" />
+            </a>
+            {% else %}
+            <a href="/" title="Wersja polska">
+                <img src="/img/lang-pl.png" alt="Wersja polska" />
+            </a>
+            {% endif  %}
+        </li>
+    </ul>
+</div>
+
+<div id ="face">
+</div>
+
+<div id="signatures">
+    {% if page.language == 'pl' %}
+    <p>projekt i realizacja: Ars Cantata&reg;</p>
+    {% else %}
+    <p>project and realisation: Ars Cantata&reg;</p>
+    {% endif %}
+</div>
