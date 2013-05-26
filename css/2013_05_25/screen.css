@@ -252,6 +252,17 @@ body.home #container #content .enter {
 	display: inline;
 	margin-left: 25px;
 }
+#container #footer #development {
+    position: relative;
+    width: 485px;
+    right: 0;
+    bottom: 0;
+}
+#container #footer #development p {
+    float: right;
+    display: inline;
+    margin-left: 25px;
+}
 /*-	Container > Footer > Face
 ----------------------------------------------------------------------------------------------- */
 #container #footer #face {

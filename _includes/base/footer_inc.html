@@ -54,3 +54,7 @@
        <p>project and realisation: Ars Cantata&reg;</p>
     {% endif %}
 </div>
+<div id="development">
+    {% capture wersja_deweloperska %}{% include base/development.md %}{% endcapture %}
+    {{ wersja_deweloperska | markdownify }}
+</div>
