@@ -1,17 +1,29 @@
-**Anna Celmer-Falkiewicz** (EN)
+**Anna Celmer-Falkiewicz**
 
-Absolwentka warszawskiej Akademii Muzycznej na Wydziale Wychowania Muzycznego w klasie dyrygentury prof. Bogdana Goli. Studiowała również na Wydziale Wokalnym tej samej uczelni. Edukację muzyczną w zakresie szkoły średniej ukończyła z wyróżnieniem na dwóch kierunkach – rytmiki oraz śpiewu solowego w klasie wokalnej prof. Bożeny Betley. Z zamiłowania do języka polskiego i jego artykulacyjnych aspektów, tak ważnych  w sztuce wokalnej, uzyskała również tytuł dyplomowanego logopedy na Uniwersytecie Warszawskim.
+Graduated from the Fryderyk Chopin University of Music in Warsaw in the conducting class of Professor Bogdan Gola at 
+the Faculty of Musical Education. She also studied in the vocal class at the same university. She had completed with 
+honours her secondary musical education both in rhythmics and vocal solo in the class of Professor Bożena Betley. 
+As she loves Polish language and its articulation issues, so vital in the vocal art, she obtained also the
+professional title of speech - language therapist at the University of Warsaw.
 
-Pierwsze artystyczne kroki stawiała na deskach Teatru Wielkiego – Opery Narodowej w Warszawie, śpiewając przez kilka lat jako chórzystka. Tam zdobyła bezcenne doświadczenie w pracy scenicznej i wokalno- aktorskiej. W kolejnych latach pracowała jako solistka – sopran oraz pedagog emisji głosu z Warszawskim Chórem Chłopięco- Męskim przy Akademii Muzycznej. Współpracowała także z chórem Teatru Muzycznego „Roma”.
+She took her first artistic steps on the stage of the National Theatre and Opera House in Warsaw, 
+singing for a couple of years in the choir. There she got priceless expertise both in work on stage and in vocal 
+and performance work. She worked during the next years as a soprano soloist and a vocal pedagogue in the Warsaw Boys’ 
+and Men’s Choir at the University of Music. She also cooperated with the Roma Musical Theatre in Warsaw.
 
-W latach 2000-2005 objęła stanowisko dyrygenta chóru „Ars Cantata” przy Klubie Inteligencji Katolickiej, z którym zdobyła liczne czołowe nagrody na międzynarodowych i ogólnopolskich konkursach chóralnych m.in.:
-* I Miejsce na I Festiwalu Pieśni Pasyjnej w Bydgoszczy (2003)
-* „Złota Wstęga” i nagroda specjalna jury „Największe wydarzenie artystyczne”: I Mazowiecki Przegląd Chórów (2003)
-* I Miejsce w XXXV Turnieju Chórów Legnica Cantat w kat. „inne chóry amatorskie” (2004)
+Between 2000 and 2005 she was the conductor of the Ars Cantata choir at the Club of Catholic Intelligentsia; 
+then she won numerous top awards at international and nationwide choir competitions, 
+of which:
+* 1st place at the 1st Passion Song Festival in Bydgoszcz (2003)
+* ‘Golden Ribbon’ and the special prize of the jury ‘the greatest artistic event’: 1st Mazovian Choir Review
+* 1st place at the 35th Choral Tournament Legnica Cantat in the category of ‘other amateur choirs’ (2004)
 
-Nagranie z legnickiego występu konkursowego zespołu prezentowane było na antenie  II Programu Polskiego Radia. W 2003r. nagrała z chórem pierwszą płytę zespołu prezentującą wybrany repertuar.
-Od 2004 do 2010r. prowadziła, jako kierownik artystyczny i solistka, autorski Zespół Wokalny „Alterno” działający przy Katedrze Polowej Wojska Polskiego.
+The recording of the choir’s competition performance was on the air of Polish Radio 2. In 2003 she recorded with 
+Ars Cantata the choir’s first disc with the selected repertoire.
+As an art director and a soloist she conducted her own Vocal Ensemble ‘Alterno’ affiliated at the 
+Polish Military Cathedral between 2004 and 2010.
 
-Od roku 2010 Anna Celmer- Falkiewicz współpracuje jako wokalistka z zespołem „Cappella Corale Varsaviana”.
+Since 2010, Anna Celmer- Falkiewicz has been cooperating as a vocalist with the ensemble Cappella Corale Varsaviana.
 
-Od kwietnia 2012r. ponownie została dyrygentem chóru „Ars Cantata”, na przekór słowom Wisławy Szymborskiej „nic dwa razy się nie zdarza...”
+Despite the words of Wisława Szymborska ‘nothing can ever happen twice...’, in April 2012 
+she was appointed to conduct the Ars Cantata choir again.
