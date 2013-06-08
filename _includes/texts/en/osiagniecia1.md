@@ -1,11 +1,12 @@
-### 2010
+### 2013
+2nd place at "Mater Misericordiae" festival in Ząbki
 
+### 2010
 Grand Prix and the Special Prize of the President of the Polish Choir and Orchestra Association at the 
 11th International Choral Meetings ‘Ad Gloriam Dei’ in Pińczów
 Silver Diploma at the 9th International Choir Music Festival named after Feliks Nowowiejski in Barczewo
 
 ### 2009
-
 Special Prize for the best performance of compulsory pieces at the 3rd International 
 Choir Festival in Randers (Denmark)
 

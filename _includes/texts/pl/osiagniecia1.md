@@ -1,3 +1,6 @@
+### 2013
+Drugie miejsce na festiwalu "Mater Misericordiae" w Ząbkach
+
 ### 2010
 Grand Prix oraz Nagroda Specjalna Prezesa PZCHiO dla Najlepszego Chóru Polskiego 
 na XI Międzynarodowych Spotkaniach Chóralnych "Ad Gloriam Dei" w Pińczowie
