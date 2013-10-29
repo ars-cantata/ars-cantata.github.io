@@ -7,6 +7,10 @@ W niedzielę w Katedrze Polowej Wojska Polskiego w Warszawie (ul. Długa 13/15) 
 Wstęp na koncert jest bezpłatny, a zorganizowano go dzięki dofinansowaniu ze środków Ministra Obrony Narodowej. 
 <br>Zapraszamy! 
 
+<br>
+<br>
+<br>
+
 ### 23 czerwca 2013 godz. 13
 Chór Ars Cantata wystąpi z koncertem w Parafii Wojskowej p.w. bł. Jana Pawła II w Wesołej (ul. Okuniewska 1, przy Placu Wojska Polskiego), która świętuje w tym roku swoje dwudziestolecie. Początek koncertu bezpośrednio po mszy na g.12.00.
 Zapraszamy!
