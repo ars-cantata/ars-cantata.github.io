@@ -27,6 +27,13 @@ towarzyszeniem fortepianu. Utwory będą uzupełnione recytacją fragmentów poe
 
 
 
+
+
+
+
+<br>
+<br>
+<br>
 ###10 listopada 2013  godz. 11 
 W niedzielę w Katedrze Polowej Wojska Polskiego w Warszawie (ul. Długa 13/15) w koncercie zatytułowanym „PIEŚNI I PIOSENKI NIEPODLEGŁEJ POLSKI” „Ars Cantata” wystąpi w towarzystwie Męskiego Zespołu Wokalnego „Calvi Cantores” z Knurowa pod dyrekcją Tomasza Sadownika. W programie tradycyjne pieśni patriotyczne oraz znane piosenki żołnierskie. W drugiej części koncertu zespoły przybliżą nam klimat pierwszych lat niepodległej Polski, prezentując popularne piosenki z tamtego okresu w aranżacji na chór (m. in. „Całuję Twoją dłoń madame”, „Zimny drań”, „Śpij kochanie”, „Umówiłem się z nią na dziewiątą”, „Co nam zostało z tych lat”). Wcześniej chóry usłyszymy podczas mszy św. o godz. 10.00
 Wstęp na koncert jest bezpłatny, a zorganizowano go dzięki dofinansowaniu ze środków Ministra Obrony Narodowej. 
@@ -36,11 +43,6 @@ Wstęp na koncert jest bezpłatny, a zorganizowano go dzięki dofinansowaniu ze 
 Bezpośrednio po wieczornej mszy, w kościele Matki Bożej Ostrobramskiej na Boernerowie przy ul. Kaliskiego 49 zabrzmią nasze „PIEŚNI I PIOSENKI NIEPODLEGŁEJ POLSKI”. „Ars Cantata” gościć będzie Męski Zespół Wokalny „Calvi Cantores” z Knurowa pod dyrekcją Tomasza Sadownika. W czasie koncertu posłuchamy tradycyjnych pieśni patriotycznych znanych piosenek żołnierskich, a także popularnych piosenek z pierwszych lat niepodległości w aranżacji na chór (m. in. „Całuję Twoją dłoń madame”, „Zimny drań”, „Śpij kochanie”, „Umówiłem się z nią na dziewiątą”, „Co nam zostało z tych lat”). Koncert organizuje Klub Inteligencji Katolickiej we współpracy z Dzielnicą Bemowo. Projekt jest współfinansowany ze środków miasta stołecznego Warszawy.
 <br>Wstęp wolny, zapraszamy!
 
-
-
-<br>
-<br>
-<br>
 
 ### 23 czerwca 2013 godz. 13
 Chór Ars Cantata wystąpi z koncertem w Parafii Wojskowej p.w. bł. Jana Pawła II w Wesołej (ul. Okuniewska 1, przy Placu Wojska Polskiego), która świętuje w tym roku swoje dwudziestolecie. Początek koncertu bezpośrednio po mszy na g.12.00.
