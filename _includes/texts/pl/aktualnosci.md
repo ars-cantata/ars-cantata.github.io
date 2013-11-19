@@ -8,7 +8,7 @@ Cantaty”. Koncert będzie nawiązywał do obchodów święta patronki muzyki -
 <br>
 Wydarzenie jest współfinansowane przez Dzielnicę Ursynów m. st. Warszawy.
 <br>
-Wstęp wolny.<br> Zapraszamy!
+Wstęp wolny. Zapraszamy!
 
 ###29 listopada 2013 godz. 18.00
 
@@ -17,24 +17,21 @@ Miasta 20) na unikalny, monograficzny koncert w ramach spotkania promocyjnego na
 publikacji Wydawnictwa „Iskry”: Mariusza Urbanka „Tuwim. Wylękniony bluźnierca” i Tadeusza
 Januszewskiego „Szopki 1922 – 1931 Pikadora i Cyrulika Warszawskiego”, z udziałem autorów 
 publikacji. Wieczór autorski rozpocznie się o godz. 17.00, początek koncertu przewidziany jest około 
-godz. 18.00.<br>
+godz. 18.00.
+
 Będzie można posłuchać muzyki wokalnej i chóralnej do tekstów Juliana Tuwima. Wykonamy 
 kompozycje Lucjana Laprusa, Magdaleny Cynk, a także przedwojenne szlagiery Władysława 
 Daniłowskiego („Dana”) – „Miłość ci wszystko wybaczy” i „Co nam zostało z tych lat” w aranżacji na 
 chór. Będzie można też posłuchać pieśni Karola Szymanowskiego z cyklu „Słopiewnie” na sopran z 
 towarzyszeniem fortepianu. Utwory będą uzupełnione recytacją fragmentów poezji Tuwima.
-
-
-
-
-
-
-
-
 <br>
+Wydarzenie jest współfinansowane przez Dzielnicę Ursynów m. st. Warszawy.
 <br>
+Wstęp wolny. Zapraszamy!
 <br>
-###10 listopada 2013  godz. 11 
+
+
+###10 listopada 2013  godz. 11
 W niedzielę w Katedrze Polowej Wojska Polskiego w Warszawie (ul. Długa 13/15) w koncercie zatytułowanym „PIEŚNI I PIOSENKI NIEPODLEGŁEJ POLSKI” „Ars Cantata” wystąpi w towarzystwie Męskiego Zespołu Wokalnego „Calvi Cantores” z Knurowa pod dyrekcją Tomasza Sadownika. W programie tradycyjne pieśni patriotyczne oraz znane piosenki żołnierskie. W drugiej części koncertu zespoły przybliżą nam klimat pierwszych lat niepodległej Polski, prezentując popularne piosenki z tamtego okresu w aranżacji na chór (m. in. „Całuję Twoją dłoń madame”, „Zimny drań”, „Śpij kochanie”, „Umówiłem się z nią na dziewiątą”, „Co nam zostało z tych lat”). Wcześniej chóry usłyszymy podczas mszy św. o godz. 10.00
 Wstęp na koncert jest bezpłatny, a zorganizowano go dzięki dofinansowaniu ze środków Ministra Obrony Narodowej. 
 <br>Zapraszamy! 
