@@ -25,7 +25,7 @@ Daniłowskiego („Dana”) – „Miłość ci wszystko wybaczy” i „Co nam 
 chór. Będzie można też posłuchać pieśni Karola Szymanowskiego z cyklu „Słopiewnie” na sopran z
 towarzyszeniem fortepianu. Utwory będą uzupełnione recytacją fragmentów poezji Tuwima.
 <br>
-Wydarzenie współfinansuje m. st. Warszawa. Wstęp wolny.
+Wydarzenie współfinansuje m. st. Warszawa.
 <br>
 Wstęp wolny. Zapraszamy!
 <br>
