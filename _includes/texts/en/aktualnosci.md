@@ -1,35 +1,33 @@
 ###23 November 2013 6pm
 
-Wystąpimy w kościele św. Tomasza Apostoła w Warszawie (Ursynów, ul. Dereniowa 12).
-Odbędzie się tam Ursynowskie Święto Muzyki Chóralnej - wspólny koncert trzech chórów:
-“Ursynovia Cantabile” Ursynowskiego Uniwersytetu Trzeciego Wieku im. J. U. Niemcewicza
-przy SGGW, “Cantate Domino” z parafii p.w. Ofiarowania Pańskiego w Warszawie oraz “Ars
-Cantaty”. Koncert będzie nawiązywał do obchodów święta patronki muzyki - świętej Cecylii.
+We are to perform in the St. Thomas the Apostle church in Warsaw (Ursynów, Dereniowa 12 St.) at
+ the Ursynów Choir Music Festival. Three choirs will give a concert together: Ursynovia
+ Cantabile Choir of the Ursynów University of the Third Age at the Warsaw University of
+ Life Sciences, Cantate Domino Choir of the Warsaw parish of the Presentation of Christ in
+ the Temple, and Ars Cantata Choir.
+ The concert is to refer to the day of St. Cecilia, the patron of music.
 <br>
-Wydarzenie jest współfinansowane przez Dzielnicę Ursynów m. st. Warszawy.
+The event co-financed by the Capital City of Warsaw.
 <br>
-Wstęp wolny. Zapraszamy!
+Admission free. Feel free to come and listen to us!
 
 ###29 November 2013 6pm
 
-Zapraszamy do Muzeum Literatury im. Adama Mickiewicza w Warszawie (Rynek Starego
-Miasta 20) na unikalny, monograficzny koncert w ramach spotkania promocyjnego najnowszych
-publikacji Wydawnictwa „Iskry”: Mariusza Urbanka „Tuwim. Wylękniony bluźnierca” i Tadeusza
-Januszewskiego „Szopki 1922 – 1931 Pikadora i Cyrulika Warszawskiego”, z udziałem autorów
-publikacji. Wieczór autorski rozpocznie się o godz. 17.00, początek koncertu przewidziany jest około
-godz. 18.00.
+Come to the Museum of Literature in Warsaw (Rynek Starego Miasta /Old Town Market Square 20) and listen to a
+unique, monographic concert organized as a part of the campaign to promote the latest books of the ‘Iskry’
+Publishing House about Julian Tuwim, a famous Polish poet of the 20th century, by Mariusz Urbanek and
+Tadeusz Januszewski, participated by these two authors.
+The soirée is to begin at 5pm, while the concert is expected to begin about 6pm.
 
-Będzie można posłuchać muzyki wokalnej i chóralnej do tekstów Juliana Tuwima. Wykonamy
-kompozycje Lucjana Laprusa, Magdaleny Cynk, a także przedwojenne szlagiery Władysława
-Daniłowskiego („Dana”) – „Miłość ci wszystko wybaczy” i „Co nam zostało z tych lat” w aranżacji na
-chór. Będzie można też posłuchać pieśni Karola Szymanowskiego z cyklu „Słopiewnie” na sopran z
-towarzyszeniem fortepianu. Utwory będą uzupełnione recytacją fragmentów poezji Tuwima.
+You will have a chance for listening to the vocal and choir music with lyrics by Julian Tuwim.
+We will perform compositions by Lucjan Laprus, Magdalena Cynk as well as Polish oldies but goldies -
+hits of the 20s and 30s by Władysław Daniłowski arranged for a choir. Songs for soprano solo
+and a piano composed by Karol Szymanowski will also be performed. The
+pieces are to be accompanied by the declamation of poems written by Julian Tuwim.
 <br>
-Wydarzenie współfinansuje m. st. Warszawa.
+The event co-financed by District Ursynów of the Capital City of Warsaw.
 <br>
-Wstęp wolny. Zapraszamy!
-<br>
-
+Admission free. Feel free to come and listen to us!
 
 
 ### 23rd June 2013 1pm
