@@ -1,3 +1,16 @@
+### 12 stycznia 2014 godz 12.30
+
+W ramach XXIII festiwalu "Boże Narodzenie w sztuce" 
+śpiewamy koncert kolend w kościele Miłosierdzia Bożego ul. Broniewskiego 10 w Malborku.
+Zapraszamy na Mszę Świętą na godzię 11.00 a następnie na koncert.
+
+
+
+
+
+
+
+
 ###23 listopada 2013 godz. 18.00 
 
 Wystąpimy w kościele św. Tomasza Apostoła w Warszawie (Ursynów, ul. Dereniowa 12). 
