@@ -1,3 +1,15 @@
+### 12 stycznia 2014  godz.12.00 - Koncert kolęd w Malborku.
+
+Zapraszamy na koncert, który odbędzie się
+w ramach XXIII festiwalu "Boże Narodzenie w Sztuce".
+Zaśpiewamy w kościele Miłosierdzia Bożego w Malborku  
+(ul. Broniewskiego 10, Malbork-Wielbark)
+podczas mszy św. o godz.12.00.
+Po zakończeniu mszy św. wykonamy koncert kolęd.
+<br>
+Zapraszamy serdecznie!
+<br><br>
+
 ###23 listopada 2013 godz. 18.00 
 
 Wystąpimy w kościele św. Tomasza Apostoła w Warszawie (Ursynów, ul. Dereniowa 12). 
