@@ -1,3 +1,13 @@
+### 28 kwietnia 2014r.  o godz. 19.30
+w parafii p.w. św. Jakuba Apostoła przy ul. Grójeckiej 38 wystąpiliśmy z koncertem pt."Gaude Mater Polonia".
+Koncert poświęcony był Janowi Pawłowi II jako zakończenie obchodów uroczystości kanonizacyjnych.
+W koncercie, który składał się z trzech części zaśpiewaliśmy utwory sakralne związane tematycznie z osobą Świętego, 
+napisane ku jego czci, bądź takie, które sam Jan Paweł II szczególnie lubił.
+<br>
+Licznie zgromadzonym słuchaczom <br>
+serdecznie dziękujemy!
+
+
 ### 6 kwietnia 2014 godz. 18.30
 
 Serdecznie zapraszamy na koncert pasyjny do jednej z najstarszych parafii warszawskich o ponad 600-letniej tradycji. 
