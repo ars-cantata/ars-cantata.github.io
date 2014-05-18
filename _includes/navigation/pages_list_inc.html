@@ -1,17 +1,23 @@
 {% for accesskey in (1..10) %}
 	{% for node in pages_list %}
-	    {% if node.accesskey == accesskey and page.language == node.language %}
+	    {% if node.accesskey == accesskey and page.language == node.language  %}
 		    {% if group == null or group == node.group %}
 		        {% if page.id == node.id %}
+                    {% if node.path contains "page" %}
+                    {% else %}
 		            <li class="{{node.id}}_{{node.language}}">
 		      	        <a href="{{node.url}}" class="active" accesskey="{{node.accesskey}}" 
 		      	           title="{{node.title}}">{{node.title}}</a>
 		            </li>
+                    {% endif %}
 		         {% else %}
-		            <li class="{{node.id}}_{{node.language}}">
+                    {% if node.path contains "page" %}
+                    {% else %}
+                    <li class="{{node.id}}_{{node.language}}">
 		      	        <a href="{{node.url}}" accesskey="{{node.accesskey}}" 
 		      	           title="{{node.title}}">{{node.title}}</a>
 		            </li>
+                    {% endif %}
 		        {% endif %}
 		    {% endif %}
 	    {% endif %}

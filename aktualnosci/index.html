@@ -1,0 +1,52 @@
+---
+title: Aktualności
+id: aktualnosci
+group: "navigation"
+accesskey: 2
+language: pl
+layout: layout_main
+---
+<div id="content" class="LBRS">
+    <div id="left-side">
+        <div id="text">
+            {% for post in paginator.posts %}
+                <h3><a href="{{ post.url }}">{{post.date_time}} - {{ post.title }}</a></h3>
+                {{ post.content }}
+            {% endfor %}
+        </div>
+        <div class="pagination">
+            {% if paginator.previous_page %}
+                {% if paginator.page == 2 %}
+                    <a href="/aktualnosci/index.html" class="previous">&lt;&lt;</a>
+                {% else %}
+                    <a href="/aktualnosci/page{{ paginator.previous_page }}" class="previous">&lt;&lt;</a>
+                {% endif %}
+            {% else %}
+            <span class="previous">&lt;&lt; |</span>
+            {% endif %}
+                <span class="pages ">
+                    {% for page_num in (1..paginator.total_pages) %}
+                        {% if page_num == 1 %}
+                            {% if page_num == paginator.page %}
+                                  <span class="page">{{page_num}}</span>
+                            {% else %}
+                                <a href="/aktualnosci/index.html" class="page">{{page_num}}</a>
+                            {% endif %}
+                        {% else %}
+                            {% if page_num == paginator.page %}
+                                  <span class="page">{{page_num}}</span>
+                            {% else %}
+                                <a href="/aktualnosci/page{{ page_num }}" class="page">{{page_num}}</a>
+                            {% endif %}
+                        {% endif %} |
+                    {% endfor %}
+                </span>
+            {% if paginator.next_page %}
+            <a href="/aktualnosci/page{{ paginator.next_page }}" class="next">&gt;&gt;</a>
+            {% else %}
+            <span class="next ">&gt;&gt;</span>
+            {% endif %}
+        </div>
+    </div>
+    {% include pages/aktualnosci_inc_right_page.html %}
+</div>

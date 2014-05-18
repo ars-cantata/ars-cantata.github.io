@@ -40,15 +40,16 @@ body.home #container #content {
 }
 body.home #container #content .enter {
 	width: 970px;
-	height: 356px;
+	min-height: 356px;
 	display: block;
 	text-indent: -666em;
 }
+
 /*-	Container
 ----------------------------------------------------------------------------------------------- */
 #container {
 	width: 970px;
-	height: 650px;
+	min-height: 650px;
 	margin: 0 auto 0 auto;
 	background: #000;
 }
@@ -56,7 +57,7 @@ body.home #container #content .enter {
 ----------------------------------------------------------------------------------------------- */
 #container #content {
 	width: 970px;
-	height: 356px;
+	min-height: 356px;
 	overflow: hidden;
 }
 #container #content p { 
@@ -82,18 +83,25 @@ body.home #container #content .enter {
 	font-size: 1.4em;
 	font-weight: normal;
 }
+
+#container #content .pagination{
+    position: absolute;
+    bottom:0;
+    right:0;
+}
+
 /*-	Container > Content > Left Side
 ----------------------------------------------------------------------------------------------- */
 #container #content #left-side {
 	float: left;
-	height: 356px;
+	min-height: 356px;
 	position: relative;
 }
 /*-	Container > Content > Right Side
 ----------------------------------------------------------------------------------------------- */
 #container #content #right-side {
 	float: right;
-	height: 356px;
+	min-height: 356px;
 	position: relative;
 }
 #container #content #left-side  #text{
@@ -164,7 +172,7 @@ body.home #container #content .enter {
 /*-	Container > Content > None Cute Center None > *
 ----------------------------------------------------------------------------------------------- */
 #container #content.NCCN #center-side {
-	height: 356px;
+	min-height: 356px;
 	margin: 0 auto 0 auto;
 }
 #container #content.NCCN #center-side.contact {
