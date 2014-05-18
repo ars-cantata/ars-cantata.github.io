@@ -1,9 +1,33 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+{%if content == nil %}
+    {% capture content %}
+Chór kameralny “Ars Cantata” jest zespołem działającym od 1986 roku jako sekcja Klubu Inteligencji Katolickiej
+w Warszawie. W repertuarze chóru znajdują się sakralne i świeckie utwory kameralne a capella, polskie i obce,
+z różnych epok - od średniowiecza do współczesności (Arcadelt, Gorczycki, Strawiński, Poulenc, Ravel, Sawa, Koszewski).
+Zespół wykonuje również pieśni prawosławne oraz oparte na tradycji ludowej,
+a także aranżacje utworów popularnych na chór.
+    {% endcapture %}
+{%endif %}
+
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="{{page.language}}" lang="{{page.language}}">
 <head>
     <link rel="icon" href="img/favicon.ico" type="image/x-icon" />
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-	<title>{{page.title}} {% if page.subtitle != null %} - {{page.subtitle}} {% endif %}[ars cantata]</title>
+    <meta property="og:image" content="http://arscantata.pl/img/logo.jpg"/>
+    <meta property="og:title" content="{{page.title}}"/>
+    <meta property="og:url" content="http://arscantata.pl{{page.url}}"/>
+    <meta property="og:site_name" content="Ars Cantata"/>
+    <meta property="og:type" content="website"/>
+    <meta property="og:description"
+          content="{{content | strip_html}}"/>
+
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@arscantata">
+    <meta name="twitter:title" content="{{page.title}}">
+    <meta name="twitter:description"
+          content="{{content | strip_html}}">
+    <meta name="twitter:image" content="http://arscantata.pl/img/logo.jpg">
+    <title>{{page.title}} {% if page.subtitle != null %} - {{page.subtitle}} {% endif %}[ars cantata]</title>
 	<link href="/css/2013_05_25/style.css" rel="stylesheet"  type="text/css" media="screen, projection" />
             <link rel="shortcut icon" href="favicon.ico" />
 	<script type="text/javascript" src="/js/jquery/jquery.js?v=1.3.1"></script>
