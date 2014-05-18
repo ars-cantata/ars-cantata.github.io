@@ -19,13 +19,13 @@ a także aranżacje utworów popularnych na chór.
     <meta property="og:site_name" content="Ars Cantata"/>
     <meta property="og:type" content="website"/>
     <meta property="og:description"
-          content="{{content | strip_html}}"/>
+          content="{{content | strip_html | replace: '...', '' | strip_newlines | strip | escape }}"/>
 
     <meta name="twitter:card" content="summary">
     <meta name="twitter:site" content="@arscantata">
     <meta name="twitter:title" content="{{page.title}}">
     <meta name="twitter:description"
-          content="{{content | strip_html}}">
+          content="{{content | strip_html | replace: '...', '' | strip_newlines | strip | escape }}">
     <meta name="twitter:image" content="http://arscantata.pl/img/logo.jpg">
     <title>{{page.title}} {% if page.subtitle != null %} - {{page.subtitle}} {% endif %}[ars cantata]</title>
 	<link href="/css/2013_05_25/style.css" rel="stylesheet"  type="text/css" media="screen, projection" />
