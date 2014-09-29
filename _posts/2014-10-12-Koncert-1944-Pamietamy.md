@@ -11,7 +11,8 @@ tuż przed wybuchem Powstania. Szczególne miejsce w programie koncertu zajmie p
 Kamila Baczyńskiego i jej interpretacja przez uznanych polskich kompozytorów muzyki chóralnej. 
 
 Usłyszymy m. in. kompozycje Józefa Świdra i Jana Antoniego Wichrowskiego. Partię solową w Mszy 
-Polskiej wykona Anna Celmer-Falkiewicz (sopran), a na organach zagra Adam Hrynkiewicz. Koncert 
-współfinansuje m. st. Warszawa, Dzielnica Śródmieście.
+Polskiej wykona Anna Celmer-Falkiewicz (sopran), a na organach zagra Adam Hrynkiewicz. 
+
+Koncert współfinansuje m. st. Warszawa, Dzielnica Śródmieście.
 
 Wstęp wolny.

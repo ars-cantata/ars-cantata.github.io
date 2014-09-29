@@ -6,7 +6,8 @@ language: pl
 ---
 W kościele przy Placu Narutowicza wystąpimy we wspólnym koncercie chóralnym „Cantemus!”
 Na program naszego recitalu złożą się głównie utwory polskich kompozytorów. Obok Ars 
-Cantaty można będzie posłuchać zespołów działających na co dzień na Ochocie. To wydarzenie 
-współfinansuje m. st. Warszawa, Dzielnica Ochota.
+Cantaty można będzie posłuchać zespołów działających na co dzień na Ochocie. 
+
+To wydarzenie współfinansuje m. st. Warszawa, Dzielnica Ochota.
 
 Wstęp wolny.
