@@ -36,7 +36,7 @@ a:hover, a:focus {
 /*-	Home
 ----------------------------------------------------------------------------------------------- */
 body.home #container #content {
-	background: url(/img/home.png) 0 0 no-repeat;
+	background: url(/img/home_2.jpg) 0 0 no-repeat;
 }
 body.home #container #content .enter {
 	width: 970px;
