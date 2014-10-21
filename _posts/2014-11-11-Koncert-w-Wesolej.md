@@ -17,6 +17,6 @@ zagra Adam Hrynkiewicz.
 <br/>
 Koncert bezpośrednio po mszy. 
 
-Koncerty zorganizowano dzięki dofinansowaniu ze środków Ministra Obrony Narodowej. 
+Koncert zorganizowano dzięki dofinansowaniu ze środków Ministra Obrony Narodowej. 
 
 Wstęp wolny.
