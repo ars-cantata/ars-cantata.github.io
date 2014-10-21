@@ -15,7 +15,7 @@ zagra Adam Hrynkiewicz.
 * 11.11.2014 r. godz. 12.45 – Warszawa-Wesoła, Kościół p.w. św. Jana Pawła II, ul. Okuniewska 1 
 
 <br/>
-Wszystkie koncerty bezpośrednio po mszy. 
+Koncert bezpośrednio po mszy. 
 
 Koncerty zorganizowano dzięki dofinansowaniu ze środków Ministra Obrony Narodowej. 
 
