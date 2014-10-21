@@ -1,5 +1,5 @@
 ---
-title: Koncerta w Wesołej
+title: Koncert w Wesołej
 date_time: 11 listopada 2014
 layout: layout_post
 language: pl
