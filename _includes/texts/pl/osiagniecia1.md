@@ -1,3 +1,6 @@
+### 2015
+"Srebrna struna" w XVII ogólnopolskim konkursie chórów w Niepołomicach.
+
 ### 2013
 Drugie miejsce na festiwalu "Mater Misericordiae" w Ząbkach
 
