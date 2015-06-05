@@ -4,7 +4,7 @@ date_time: 26 kwietnia 2015
 layout: layout_post
 language: pl
 ---
-
+<br>
 W dniach 25-26 kwietnia 2015r. w Niepołomicach odbył się XVII Ogólnopolski Konkurs Chórów "O Złotą Strunę".
 <br><br>
 ZDOBYLIŚMY SREBRNĄ STRUNĘ ! :)

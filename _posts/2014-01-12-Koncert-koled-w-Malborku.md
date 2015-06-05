@@ -4,6 +4,7 @@ date_time: 12 stycznia 2014, godz.12.00
 layout: layout_post
 language: pl
 ---
+<br>
 Zapraszamy na koncert, który odbędzie się
 w ramach XXIII festiwalu "Boże Narodzenie w Sztuce".
 Zaśpiewamy w kościele Miłosierdzia Bożego w Malborku

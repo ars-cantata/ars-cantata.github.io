@@ -4,6 +4,7 @@ date_time: 12 października 2014 godz. 19.00
 layout: layout_post
 language: pl
 ---
+<br>
 Zapraszamy do Katedry Polowej Wojska Polskiego (ul. Długa 13/15) na uroczysty koncert 
 upamiętniający 70. rocznicę Powstania Warszawskiego. W programie znajdzie się Msza Polska na 
 chór, sopran lub tenor i organy Jana Maklakiewicza do słów Marii Szpyrkówny, napisana w 1944 roku, 

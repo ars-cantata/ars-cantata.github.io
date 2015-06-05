@@ -4,6 +4,7 @@ date_time: 12, 19, 26 października 2014
 layout: layout_post
 language: pl
 ---
+<br>
 W 3 kolejne niedziele października szczególnie zapraszamy do posłuchania Ars Cantaty na żywo tych
 słuchaczy, którzy na nasze warszawskie koncerty mają nie po drodze. Wystąpimy z koncertem "1944. 
 Chwała bohaterom" przygotowanym na 70. rocznicę Powstania Warszawskiego. W programie Msza 

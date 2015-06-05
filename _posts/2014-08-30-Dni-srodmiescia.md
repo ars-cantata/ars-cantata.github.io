@@ -4,6 +4,7 @@ date_time: 30 sierpnia 2014
 layout: layout_post
 language: pl
 ---
+<br>
 W ostatnią sierpniową sobotę wzięliśmy udział w Dniach Śródmieścia 2014. Naczelną ideą wydarzenia, 
 organizowanego wspólnie przez Dzielnicę Śródmieście i Dom Kultury Śródmieście, 
 jest prezentacja działających na terenie dzielnicy instytucji kultury oraz organizacji pozarządowych, 

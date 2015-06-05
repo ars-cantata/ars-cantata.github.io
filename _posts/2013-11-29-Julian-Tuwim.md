@@ -4,6 +4,7 @@ date_time: 29 listopada 2013 godz. 18.00
 layout: layout_post
 language: pl
 ---
+<br>
 Zapraszamy do Muzeum Literatury im. Adama Mickiewicza w Warszawie (Rynek Starego
 Miasta 20) na unikalny, monograficzny koncert w ramach spotkania promocyjnego najnowszych
 publikacji Wydawnictwa „Iskry”: Mariusza Urbanka „Tuwim. Wylękniony bluźnierca” i Tadeusza

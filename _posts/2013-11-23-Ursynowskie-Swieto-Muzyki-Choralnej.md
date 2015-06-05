@@ -4,6 +4,7 @@ date_time: 23 listopada 2013 godz. 18.00
 layout: layout_post
 language: pl
 ---
+<br>
 Wystąpimy w kościele św. Tomasza Apostoła w Warszawie (Ursynów, ul. Dereniowa 12).
 Odbędzie się tam Ursynowskie Święto Muzyki Chóralnej - wspólny koncert trzech chórów:
 “Ursynovia Cantabile” Ursynowskiego Uniwersytetu Trzeciego Wieku im. J. U. Niemcewicza

@@ -4,6 +4,7 @@ date_time: 6 kwietnia 2014, godz. 18.30
 layout: layout_post
 language: pl
 ---
+<br>
 Serdecznie zapraszamy na koncert pasyjny do jednej z najstarszych parafii warszawskich o ponad 600-letniej tradycji.
 Po wieczornej mszy św. wystąpimy z repertuarem muzyki polskiej, tematycznie związanej z okresem Wielkiego Postu.
 W programie muzyka dawna: „Psalmy” Mikołaja Gomółki do tekstów biblijnych w tłumaczeniu Jana Kochanowskiego,
