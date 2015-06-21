@@ -1,5 +1,4 @@
 ### 2015
-Pierwsze Miejsce na XIX Międzynarodowym Festiwalu Pieśni Religijnej Cantate Deo 2015 w Rzeszowie
 "Srebrna struna" w XVII ogólnopolskim konkursie chórów w Niepołomicach.
 
 ### 2013

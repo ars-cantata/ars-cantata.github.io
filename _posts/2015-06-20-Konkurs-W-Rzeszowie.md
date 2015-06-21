@@ -1,5 +1,5 @@
 ---
-title: Konkurs w Niepołomicach
+title: Festiwal w Rzeszowie
 date_time: 20 czerwca 2015
 layout: layout_post
 language: pl
