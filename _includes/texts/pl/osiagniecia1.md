@@ -11,7 +11,7 @@ Drugie miejsce na festiwalu "Mater Misericordiae" w Ząbkach
 <ul>
 <li>Grand Prix oraz Nagroda Specjalna Prezesa PZCHiO dla Najlepszego Chóru Polskiego 
 na XI Międzynarodowych Spotkaniach Chóralnych "Ad Gloriam Dei" w Pińczowie</li>
-<li>Srebrny Dyplom na IX Międzynarodowym Festiwalu Muzyki Chóralnej im. Feliksa Nowowiejskiego w Barczewie<li>
+<li>Srebrny Dyplom na IX Międzynarodowym Festiwalu Muzyki Chóralnej im. Feliksa Nowowiejskiego w Barczewie</li>
 </ul>
 
 ### 2009
