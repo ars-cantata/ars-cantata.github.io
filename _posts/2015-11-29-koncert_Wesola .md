@@ -1,5 +1,5 @@
 ---
-title: 29 listopada 2015 - Koncert  z cyklu "Bóg, Honor, Ojczyzna"
+title: Koncert  z cyklu "Bóg, Honor, Ojczyzna"
 date_time: 29 listopada 2015
 layout: layout_post
 language: pl
