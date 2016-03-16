@@ -18,9 +18,3 @@ Złoty Dyplom oraz Nagrodę Specjalną Dyrektora poznańskiego
 oddziału Związku Chórów Kościelnych Caecylianum na III Ogólnopolskim 
 Konkursie Ars Liturgica.
 
-### 2006
-Udział w XI Międzynarodowym Festiwalu Chóralnym w Prowansji 
-(Festival Choral International en Provence) oraz w dwóch plenerowych 
-wykonaniach Requiem W.A. Mozarta w amfiteatrze w Cannes – widowisko 
-muzyczne” Europa na scenie”- w ramach obchodów 250 rocznicy urodzin 
-kompozytora.
