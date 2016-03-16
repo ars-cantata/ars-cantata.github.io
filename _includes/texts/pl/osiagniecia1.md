@@ -1,3 +1,6 @@
+### 2016
+Trzecie miejsce na V Gdańskim  Międzynarodowym Festiwalu Chóralnym
+
 ### 2015
 &bull; Pierwsze Miejsce na XIX Międzynarodowym Festiwalu Pieśni Religijnej Cantate Deo 2015 w Rzeszowie. <br>
 &bull; Srebrna struna" w XVII ogólnopolskim konkursie chórów w Niepołomicach.
