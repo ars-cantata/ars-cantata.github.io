@@ -1,12 +1,11 @@
 ### 2016
-&bull;Trzecie miejsce na V Gdańskim  Międzynarodowym Festiwalu Chóralnym
-- I MIEJSCE i ZŁOTY DYPLOM w kategorii chórów mieszanych kameralnych
-<br><br>
+&bull;I MIEJSCE i ZŁOTY DYPLOM w kategorii chórów mieszanych kameralnych
+<br>
 - NAGRODĘ SPECJALNĄ PREZESA POLSKIEGO ZWIĄZKU CHÓRÓW I ORKIESTR  prof. Dariusza    
-<br><br>
 Dyczewskiego za NAJLEPSZE WYKONANIE UTWORU POLSKIEGO KOMPOZYTORA
-<br><br>
-&bull; II MIEJSCE  w klasyfikacji generalnej konkursu
+<br>
+ II MIEJSCE  w klasyfikacji generalnej konkursu
+&bull;Trzecie miejsce na V Gdańskim  Międzynarodowym Festiwalu Chóralnym
 
 ### 2015
 &bull; Pierwsze Miejsce na XIX Międzynarodowym Festiwalu Pieśni Religijnej Cantate Deo 2015 w Rzeszowie. <br>
