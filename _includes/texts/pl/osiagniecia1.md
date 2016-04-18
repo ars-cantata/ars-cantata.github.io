@@ -1,14 +1,14 @@
 ### 2016
-&bull;Ogólnopolsk Kokurs "Cantat viWAT" w Warszawie 
+&bull;Ogólnopolsk Kokurs "Cantat viWAT" w Warszawie: 
 <br>
 - Pierwsze Miejsce i Złoty Dyplom w kategorii chórów mieszanych kameralnych
 <br>
-- Nagrodę Specjalną Prezesa Polskiego Związku Chórów i Orkiestr  prof. Dariusza    
+- Nagroda Specjalna Prezesa Polskiego Związku Chórów i Orkiestr  prof. Dariusza    
 Dyczewskiego za najlepsze wykonanie utworu polskiego kompozytora
 <br>
-- Drugie miejsce  w klasyfikacji generalnej konkursu
+- Drugie Miejsce w klasyfikacji generalnej konkursu
 <br>
-&bull;Trzecie Miejsce na v gdańskim  międzynarodowym festiwalu chóralnym
+&bull;Trzecie Miejsce na V Gdańskim  Międzynarodowym Festiwalu Chóralnym
 
 ### 2015
 &bull; Pierwsze Miejsce na XIX Międzynarodowym Festiwalu Pieśni Religijnej Cantate Deo 2015 w Rzeszowie. <br>
