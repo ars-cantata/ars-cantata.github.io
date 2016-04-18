@@ -1,5 +1,5 @@
 ### 2016
-&bull;Ogólnopolsk Kokurs "Cantat viWAT" w Warszawie: 
+&bull; Ogólnopolsk Konkurs "Cantat viWAT" w Warszawie: 
 <br>
 - Pierwsze Miejsce i Złoty Dyplom w kategorii chórów mieszanych kameralnych
 <br>
@@ -8,7 +8,7 @@ Dyczewskiego za najlepsze wykonanie utworu polskiego kompozytora
 <br>
 - Drugie Miejsce w klasyfikacji generalnej konkursu
 <br>
-&bull;Trzecie Miejsce na V Gdańskim  Międzynarodowym Festiwalu Chóralnym
+&bull; Trzecie Miejsce na V Gdańskim  Międzynarodowym Festiwalu Chóralnym
 
 ### 2015
 &bull; Pierwsze Miejsce na XIX Międzynarodowym Festiwalu Pieśni Religijnej Cantate Deo 2015 w Rzeszowie. <br>
