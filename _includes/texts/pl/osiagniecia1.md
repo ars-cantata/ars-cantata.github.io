@@ -1,5 +1,5 @@
 ### 2016
-&bull; Ogólnopolsk Konkurs "Cantat viWAT" w Warszawie: 
+&bull; Ogólnopolski Konkurs "Cantat viWAT" w Warszawie: 
 <br>
 - Pierwsze Miejsce i Złoty Dyplom w kategorii chórów mieszanych kameralnych
 <br>
