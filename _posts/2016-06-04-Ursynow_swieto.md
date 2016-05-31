@@ -1,6 +1,6 @@
 ---
-title: godz. 17.00 Ursynowskie Święto Muzyki Chóralnej 
-date_time: Sobota 4 czerwca 2016 r.
+title: Ursynowskie Święto Muzyki Chóralnej
+date_time: Sobota 4 czerwca 2016 r. godz. 17.00
 layout: layout_post
 language: pl
 ---
