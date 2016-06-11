@@ -17,7 +17,7 @@ Postaramy się naszych Gości trochę wzruszyć i trochę rozbawić…
 Oczywiście będą niespodzianki… Serdecznie zapraszamy!"
 <br>
 <br>
-Koncert odbędzie się 18 czerwca 2016 (sobota) w Mazowieckim Instytucie Kultury
+Koncert odbędzie się 18 czerwca 2016 r. (sobota) w Mazowieckim Instytucie Kultury
 w Warszawie przy ul. Elektoralnej 12.
 <br>
 <br>
