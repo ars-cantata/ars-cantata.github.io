@@ -10,4 +10,4 @@ Aby uzyskać więcej informacji prosimy o kontakt:
 
 e-mail: <kontakt@arscantata.pl>
 
-telefon: +48 695 160 762
+telefon: +48 506 787 754
