@@ -1,7 +1,6 @@
 ### 2017
 Srebrna Wstęga na XXVII Międzynarodowym Festiwalu Muzyki Adwentowej i Bożonarodzeniowej w Pradze
-<br>
-- Pierwsze Miejsce i Złoty Dyplom w kategorii chórów mieszanych kameralnych
+
 ### 2016
 &bull; Ogólnopolski Konkurs "Cantat viWAT" w Warszawie: 
 <br>
