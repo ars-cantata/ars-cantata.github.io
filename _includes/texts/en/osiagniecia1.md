@@ -1,3 +1,14 @@
+### 2017
+XXVII International Festival of Advent and Christmas Music in Prague - Silver Medal
+
+### 2016
+National Competition "Cantat ViWAT" in Warsaw:
+First Place and Golden Diploma in the category of mixed chamber choirs and Special Prize of the President of the Polish Association of Choirs and Orchestras prof. Dariusz Dyczewski for the best performance of the work of the Polish composer.
+
+### 2015
+First Place at the 19th International Festival of Cantate Deo 2015 in Rzeszów.
+Second place in the general classification of the competition
+
 ### 2013
 2nd place at "Mater Misericordiae" festival in Ząbki
 
