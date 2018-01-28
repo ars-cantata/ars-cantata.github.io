@@ -1,12 +1,13 @@
-Chór kameralny "Ars Cantata" jest zespołem działającym od 1986 roku jako sekcja Klubu Inteligencji Katolickiej w Warszawie. W repertuarze chóru znajdują się sakralne i świeckie utwory kameralne a capella, polskie i obce, z różnych epok - od średniowiecza do współczesności (Arcadelt, Gorczycki, Strawiński, Poulenc, Ravel, Sawa, Koszewski). Zespół wykonuje również pieśni prawosławne oraz oparte na tradycji ludowej, a także aranżacje utworów popularnych na chór.
-
-Zespół występuje w kościołach i salach koncertowych (Teatr Wielki, Akademia Muzyczna), bierze udział w imprezach okolicznościowych i koncertach charytatywnych (Voices for Hospices i in.), angażuje się również w projekty teatralne. 
+Chór kameralny „Ars Cantata” powstał w 1986roku jako jedna z sekcji Klubu Inteligencji Katolickiej w Warszawie. Obecnie prowadzi szeroko rozwiniętą działalność współpracując z KIK, ale również ze stołecznymi prestiżowymi szkołami wyższymi, m.in. Collegium Civitas oraz wieloma instytucjami i ośrodkami kultury. Członkowie chóru „Ars Cantata” to amatorzy – pasjonaci muzyki i śpiewu, związani z chóralistyką często od najmłodszych lat swojego życia.
 
 
-Od 2004 roku zespół współpracuje z prestiżową szkołą wyższą - Collegium Civitas. 
+Repertuar zespołu to muzyka sakralna i świecka z różnych epok, w tym również utwory folklorystyczne, patriotyczne oraz duży wybór opracowań przebojów muzyki popularnej. Szczególne miejsce w dorobku chóru zajmują utwory współczesnych kompozytorów polskich, takich jak Romuald Twardowski, Marian Sawa, Józef Świder, Henryk Mikołaj Górecki. Ich wykonania zostały dostrzeżone i wielokrotnie nagrodzone podczas międzynarodowych i ogólnopolskich konkursów chóralnych. 
 
 
-Chór kameralny "Ars Cantata" jest laureatem wielu nagród i wyróżnień na renomowanych festiwalach i konkursach chóralnych w Polsce i za granicą.
+Chór „Ars Cantata” jest bardzo aktywnym uczestnikiem życia muzycznego Warszawy. Występuje w najpiękniejszych salach koncertowych stolicy, m.in. w Teatrze Wielkim – Operze Narodowej, Uniwersytecie Muzycznym im. F. Chopina, Muzeum Niepodległości, Muzeum Literatury, Bibliotece Narodowej, Galerii Porczyńskich oraz w wielu zabytkowych warszawskich kościołach. Zespół jest zapraszany również na koncerty w całej Polsce, koncertował m.in. w Malborku, Gdańsku, Rzeszowie.  
 
 
-Członkowie chóru często wyjeżdżają razem na wyprawy dalsze i bliższe. Obowiązkowy niemal punkt programu rocznego to tygodniowy obóz wakacyjny oraz jesienny i wiosenny weekend szkoleniowy. Podczas tych wyjazdów nie tylko pracujemy, ale i nie stronimy od zabawy.
+Dwukrotnie – w roku 2006 i 2013 zespół był gościem Międzynarodowego Festiwalu Chóralnego w Prowansji (Francja), gdzie wykonywał m.in. „Requiem” W.A. Mozarta oraz koncertował z repertuarem muzyki polskiej.
+
+
+Od roku 2000 zespół zdobył ponad 20 czołowych nagród podczas ogólnopolskich i międzynarodowych konkursów chóralnych w kraju i za granicą. Jedna z nich to I Miejsce w uznawanym w Polsce za najbardziej prestiżowy konkurs chóralny, jakim jest Ogólnopolski Turniej Chórów „Legnica Cantat”. 
