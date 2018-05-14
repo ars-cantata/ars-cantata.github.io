@@ -8,7 +8,7 @@ language: pl
 SERDECZNIE ZAPRASZAMY
 <br>
 <br>
-<img src="/img/posters/Nowolipie_A3.jpg" alt="Pasyjny_Faustyna">
+<img src="/img/posters/Nowolipie_A3s.jpg" alt="Pasyjny_Faustyna">
 <br>
 <br>
 
