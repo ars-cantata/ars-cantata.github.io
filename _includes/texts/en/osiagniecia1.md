@@ -1,5 +1,5 @@
 ### 2018
-First Place and Golden Diploma in the category of choirs - 1st National Festival of Sacred Music - Hope in the Choir! - Tykocin
+First Place and Golden Diploma in the category of chamber choirs - 1st National Festival of Sacred Music - Hope in the Choir! - Tykocin
 
 ### 2017
 Silver Diploma - XXVII International Festival of Advent and Christmas Music in Prague 
