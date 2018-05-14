@@ -1,5 +1,8 @@
+### 2018
+- Pierwsze Miejsce i Złoty Dyplom w kategorii chórów kameralnych na I Ogólnopolskim Konkursie Muzyki Sakralnej - Nadzieja w Chórze! - w Tykocinie
+
 ### 2017
-Srebrna Wstęga na XXVII Międzynarodowym Festiwalu Muzyki Adwentowej i Bożonarodzeniowej w Pradze
+- Srebrna Wstęga na XXVII Międzynarodowym Festiwalu Muzyki Adwentowej i Bożonarodzeniowej w Pradze
 
 ### 2016
 &bull; Ogólnopolski Konkurs "Cantat viWAT" w Warszawie: 
