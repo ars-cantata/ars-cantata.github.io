@@ -8,7 +8,7 @@ language: pl
 SERDECZNIE ZAPRASZAMY
 <br>
 <br>
-<img src="/img/posters/Ulani_A3e_Plakat i Zaproszenie na koncert 04.11.2018.jpg" alt="Gdzie jestescie ułani">
+<img src="/img/posters/Niepodlegla_A3b (1)_Plakat i Zaproszenie na koncert 11.11.2018.jpg" alt="NIEPODLEGLA WOLNA NASZA">
 <br>
 <br>
 
