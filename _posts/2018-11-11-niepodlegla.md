@@ -8,7 +8,7 @@ language: pl
 SERDECZNIE ZAPRASZAMY
 <br>
 <br>
-<img src="/img/posters/Niepodlegla_A3b (1)_Plakat i Zaproszenie na koncert 11.11.2018.jpg" alt="NIEPODLEGLA WOLNA NASZA">
+<img src="/img/posters/Niepodlegla_A3b (1)_Plakat i Zaproszenie na koncert 11.11.2018a.jpg" alt="NIEPODLEGLA WOLNA NASZA">
 <br>
 <br>
 
