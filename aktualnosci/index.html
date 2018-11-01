@@ -7,7 +7,11 @@ language: pl
 layout: layout_main
 ---
 <div id="content" class="LBRS">
-    <div id="left-side">
+     <p>
+	Najbardziej aktualne informacje znajdziesz na naszym <a href="https://www.facebook.com/ArsCantata">Facebooku</a>
+	</p>
+	<div id="left-side">
+	
         <div id="text">
             {% for post in paginator.posts %}
                 <h3><a href="{{ post.url }}">{{post.date_time}} - {{ post.title }}</a></h3>
