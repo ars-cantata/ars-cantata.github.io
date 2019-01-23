@@ -8,7 +8,7 @@ language: pl
 SERDECZNIE ZAPRASZAMY
 <br>
 <br>
-<img src="/img/posters/koledyNarutowiczaM.png" alt="koncert kolędowy Lulejże mi lulej">
+<img src="/img/posters/koledyNarutowicza.png" alt="koncert kolędowy Lulejże mi lulej">
 <br>
 <br>
 
