@@ -4,8 +4,8 @@ e-mail: <kontakt@arscantata.pl>
 
 telefon: +48 506 787 754
 
-
-
+<br>
+<br>
 
 Próby Chóru Kameralnego Ars Cantata odbywają się
 
