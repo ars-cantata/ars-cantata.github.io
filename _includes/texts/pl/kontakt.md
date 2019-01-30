@@ -4,6 +4,9 @@ e-mail: <kontakt@arscantata.pl>
 
 telefon: +48 506 787 754
 
+
+
+
 Próby Chóru Kameralnego Ars Cantata odbywają się
 
 w poniedziałki i czwartki w godz. 18.30-20.30.
